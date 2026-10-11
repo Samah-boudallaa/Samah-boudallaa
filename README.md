@@ -46,6 +46,23 @@ Réalisé pendant mon stage chez D-Business Consulting (2026).
 
 ---
 
+## Preuves de compétences
+
+Chaque compétence attendue pour un poste MLOps / AIOps, avec le dépôt où la vérifier.
+
+| Attente du poste | Preuve | Où la voir |
+|---|---|---|
+| Conteneurisation et déploiement | Docker Compose avec 6 services ; conteneur non-root avec healthcheck | [smart-data-pipeline-pfe](https://github.com/Samah-boudallaa/smart-data-pipeline-pfe), [GraphGen](https://github.com/Samah-boudallaa/GraphGen) |
+| CI/CD et tests automatisés | GitHub Actions, 12 tests pytest, linter ruff | [GraphGen](https://github.com/Samah-boudallaa/GraphGen), [onglet Actions](https://github.com/Samah-boudallaa/GraphGen/actions) |
+| Monitoring et observabilité | Prometheus (8 métriques) et dashboard Grafana | [smart-data-pipeline-pfe](https://github.com/Samah-boudallaa/smart-data-pipeline-pfe) |
+| Détection d'anomalies (AIOps) | Isolation Forest sur un flux Kafka temps réel | [smart-data-pipeline-pfe](https://github.com/Samah-boudallaa/smart-data-pipeline-pfe) |
+| Mise à disposition de modèles ML | API FastAPI (9 endpoints) servant un modèle XGBoost | [nexadecide-decision-system](https://github.com/Samah-boudallaa/nexadecide-decision-system) |
+| Pipelines de données fiables | ETL de 443 154 enregistrements, lecture < 100 ms ; 28 400+ messages traités sans perte (tests en local) | [nexadecide-decision-system](https://github.com/Samah-boudallaa/nexadecide-decision-system), [smart-data-pipeline-pfe](https://github.com/Samah-boudallaa/smart-data-pipeline-pfe) |
+
+Les résultats chiffrés proviennent de tests en local ou de données simulées, comme indiqué dans le README de chaque dépôt.
+
+---
+
 ## Ce que je recherche
 
 Un poste **MLOps / AIOps Engineer** pour faire le lien entre le développement des modèles ML et leur mise en production : déploiement, CI/CD, monitoring et fiabilité.
