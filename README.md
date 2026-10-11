@@ -1,6 +1,6 @@
 # Bonjour, je suis Samah Boudallaa
 
-**Étudiante en Bachelor Data Science (EST Kelâa des Sraghna, Université Cadi Ayyad) · Data Engineering & Machine Learning · Orientation MLOps / AIOps**
+**Étudiante en Bachelor Data Science (Université Cadi Ayyad) · Data Engineering & Machine Learning · Orientation MLOps / AIOps**
 
 Je construis des pipelines de données et de machine learning de bout en bout : de la donnée brute jusqu'au modèle exposé par une API, conteneurisé, testé et supervisé. Je cherche un poste **MLOps / AIOps Engineer** pour industrialiser et fiabiliser des modèles en production.
 
