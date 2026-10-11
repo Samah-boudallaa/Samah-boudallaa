@@ -1,16 +1,64 @@
-## Hi there 👋
+# Bonjour, je suis Samah Boudallaa
 
-<!--
-**Samah-boudallaa/Samah-boudallaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiante en Bachelor Data Science (EST Kelâa des Sraghna, Université Cadi Ayyad) · Data Engineering & Machine Learning · Orientation MLOps / AIOps**
 
-Here are some ideas to get you started:
+Je construis des pipelines de données et de machine learning de bout en bout : de la donnée brute jusqu'au modèle exposé par une API, conteneurisé, testé et supervisé. Je cherche un poste **MLOps / AIOps Engineer** pour industrialiser et fiabiliser des modèles en production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Maroc | [Portfolio](https://samah-boudallaa.github.io) | [LinkedIn](https://www.linkedin.com/in/samahboudallaa-92409a329) | [samahboudallaa@gmail.com](mailto:samahboudallaa@gmail.com)
+
+---
+
+## Stack
+
+| Domaine | Outils |
+|---|---|
+| Langages | Python, SQL, R |
+| Data Engineering | Apache Kafka, Apache Spark, Pandas, ETL, DuckDB, Parquet, SQL Server, MySQL |
+| Machine Learning | Scikit-learn, XGBoost, Isolation Forest, RAG, LangChain, Mistral AI |
+| API | FastAPI, Flask, REST, Streamlit |
+| Conteneurisation, CI/CD, observabilité | Docker, Docker Compose, Git, GitHub Actions, pytest, ruff, Prometheus, Grafana |
+
+---
+
+## Projets mis en avant
+
+### 1. NexaDecide : plateforme d'aide à la décision basée sur l'IA
+Réalisé pendant mon stage chez D-Business Consulting (2026).
+- Pipeline ETL de **443 154 enregistrements** (SQL Server → DuckDB / Parquet) : lecture en **< 100 ms** contre 15 à 30 s en accès direct
+- API **FastAPI** (9 endpoints, route de santé) et interface **Streamlit** de 10 pages
+- Modèle **XGBoost** de prévision du chiffre d'affaires (MAPE 8,9 % sur données simulées) et recommandations **Mistral AI / LangChain (RAG)**
+- Dépôt : [nexadecide-decision-system](https://github.com/Samah-boudallaa/nexadecide-decision-system)
+
+### 2. Smart Data Pipeline : pipeline IoT temps réel (PFE DUT, équipe de 3)
+- Architecture événementielle **Kafka (KRaft)** sur ~132 000 mesures de capteurs, moteur adaptatif Pandas / Spark
+- Détection d'anomalies par **Isolation Forest**
+- Supervision avec **Prometheus** (8 métriques) et **Grafana** ; 6 conteneurs orchestrés avec **Docker Compose**
+- Tests en local : traitement < 500 ms par message, 28 400+ messages traités sans perte
+- Dépôt : [smart-data-pipeline-pfe](https://github.com/Samah-boudallaa/smart-data-pipeline-pfe)
+
+### 3. GraphGen : analyse exploratoire de fichiers CSV / Excel (binôme)
+- Application web Flask / Plotly
+- **12 tests pytest**, linter **ruff**, intégration continue **GitHub Actions**
+- Conteneur **Docker** non-root avec healthcheck
+- Dépôt : [GraphGen](https://github.com/Samah-boudallaa/GraphGen)
+
+> Chaque dépôt contient un README avec l'architecture, la commande de lancement et les résultats.
+
+---
+
+## Ce que je recherche
+
+Un poste **MLOps / AIOps Engineer** pour faire le lien entre le développement des modèles ML et leur mise en production : déploiement, CI/CD, monitoring et fiabilité.
+
+## En cours d'apprentissage
+
+Je travaille sur les compétences qui me manquent encore pour ce métier :
+- [ ] Suivi d'expériences et registre de modèles avec **MLflow**
+- [ ] Détection de **drift** des données et du modèle (Evidently)
+- [ ] CI/CD qui teste, construit et déploie un modèle
+- [ ] **Kubernetes**, Linux / Bash et orchestration (Airflow)
+
+## Me contacter
+
+Ouverte aux stages et opportunités en MLOps, AIOps, Data Engineering et IA.
+Écrivez-moi par [e-mail](mailto:samahboudallaa@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/samahboudallaa-92409a329).
