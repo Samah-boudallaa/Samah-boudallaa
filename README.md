@@ -222,7 +222,7 @@ flowchart LR
 
 <br/>
 
-## 📈 Activité GitHub
+##  Activité GitHub
 
 <div align="center">
 
