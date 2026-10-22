@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" alt="Samah Boudallaa · Data Engineering, Machine Learning et IA" width="100%"/>
+<img src="./hero.svg" alt="Samah Boudallaa · Data Engineering, Machine Learning et IA" width="100%"/>
 
 <a href="https://github.com/Samah-boudallaa"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Data+Engineering+%C2%B7+pipelines+temps+r%C3%A9el;Machine+Learning+%C2%B7+de+la+pr%C3%A9vision+au+RAG;Industrialisation+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Supervision;Ouverte+aux+stages+et+opportunit%C3%A9s" alt="Texte animé"/></a>
 
@@ -17,6 +17,12 @@
 <img src="https://img.shields.io/badge/focus-data%20engineering%20%C2%B7%20ML%20%C2%B7%20IA-a371f7?style=flat-square" alt="Focus"/>
 <img src="https://komarev.com/ghpvc/?username=Samah-boudallaa&label=visites&color=1f6feb&style=flat-square" alt="Visites"/>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./marquee.svg" alt="Technologies" width="100%"/>
 </div>
 
 <br/>
@@ -51,7 +57,7 @@ class Samah:
 <br/>
 
 <div align="center">
-<img src="pipeline.svg" alt="Flux de données de bout en bout" width="100%"/>
+<img src="./pipeline.svg" alt="Flux de données de bout en bout" width="100%"/>
 </div>
 
 <br/>
@@ -208,7 +214,7 @@ flowchart LR
 
 <br/>
 
-##  Stack technique
+## Stack technique
 
 | Domaine | Technologies |
 |---|---|
@@ -224,20 +230,13 @@ flowchart LR
 
 ##  Activité GitHub
 
+> Ce tableau de bord n'est pas un widget tiers : il est **généré chaque jour par mon propre pipeline** (script Python + GitHub Actions) à partir de l'API GitHub. Un pipeline de données, appliqué à mon propre profil.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samah-boudallaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&rank_icon=github" alt="Statistiques GitHub" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samah-boudallaa&theme=tokyonight&hide_border=true&background=0d1117" alt="Séries de contributions" height="165"/>
+<img src="./stats.svg" alt="Tableau de bord GitHub généré automatiquement" width="100%"/>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samah-boudallaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Langages les plus utilisés" height="150"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samah-boudallaa&bg_color=0d1117&color=58a6ff&line=a371f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Graphique d'activité" width="100%"/>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samah-boudallaa/Samah-boudallaa/output/github-contribution-grid-snake-dark.svg"/>
@@ -249,7 +248,7 @@ flowchart LR
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contributions en 3D" width="100%"/>
 
-<sub><i>Les visuels se régénèrent automatiquement via GitHub Actions. Une part du travail de stage est dans des dépôts privés et n'apparaît pas ici.</i></sub>
+<sub><i>Une part du travail de stage est dans des dépôts privés et n'apparaît pas ici.</i></sub>
 
 </div>
 
@@ -288,7 +287,7 @@ timeline
 
 <td valign="top" width="50%">
 
-<h3> En cours d'exploration</h3>
+<h3>🔭 En cours d'exploration</h3>
 <sub>Sujets que j'apprends activement, pas encore pratiqués en production.</sub>
 <ul>
 <li>Suivi d'expériences et versioning des modèles avec <b>MLflow</b></li>
@@ -301,7 +300,7 @@ timeline
 
 <td valign="top" width="50%">
 
-<h3> Me contacter</h3>
+<h3>📬 Me contacter</h3>
 <sub>Ouverte aux stages et aux opportunités en data engineering, machine learning et IA.</sub>
 <br/><br/>
 <a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
