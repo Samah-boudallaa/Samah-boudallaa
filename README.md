@@ -5,7 +5,7 @@
 <h3>Bachelor Sciences des Données · Data Engineering · Machine Learning &amp; IA</h3>
 
 <p>
-Étudiante à l'<b>EST Kelâa des Sraghna (Université Cadi Ayyad)</b>, je conçois des solutions de bout en bout :<br/>
+Étudiante à l'<b>Université Cadi Ayyad</b>, je conçois des solutions de bout en bout :<br/>
 de la donnée brute au modèle exposé par une API, avec des tests, des conteneurs et un suivi des performances.<br/>
 Je m'intéresse particulièrement aux <b>pipelines fiables</b>, à la <b>qualité logicielle</b> et à l'<b>industrialisation des solutions data</b>.
 </p>
