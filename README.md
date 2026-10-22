@@ -1,72 +1,90 @@
-# Bonjour, je suis Samah Boudallaa
+# Samah Boudallaa
 
-**Étudiante en Bachelor Sciences des Données (Université Cadi Ayyad) | Data Engineering, Machine Learning et IA**
+**Étudiante en Bachelor Sciences des Données | Data Engineering, Machine Learning et IA**
 
-Passionnée par la donnée, l'ingénierie logicielle et l'intelligence artificielle, j'aime construire des solutions de bout en bout : partir de la donnée brute, la transformer, entraîner un modèle, l'exposer par une API et vérifier qu'il fonctionne de façon fiable. Je privilégie les projets concrets, testés et mesurés.
+Étudiante à l'EST Kelâa des Sraghna (Université Cadi Ayyad), je construis des solutions de bout en bout : de la donnée brute au modèle exposé par une API, avec des tests, des conteneurs et un suivi des performances. Je m'intéresse de plus en plus au ML Engineering, à l'industrialisation et à la fiabilité des pipelines.
 
-Maroc | [Portfolio](https://samah-boudallaa.github.io) | [LinkedIn](https://www.linkedin.com/in/samah-boudallaa-92409a329) | [s.boudallaa2659@uca.ac.ma](mailto:s.boudallaa2659@uca.ac.ma)
+[Portfolio](https://samah-boudallaa.github.io) | [LinkedIn](https://www.linkedin.com/in/samah-boudallaa-92409a329) | [E-mail](mailto:samahboudallaa@gmail.com)
 
 ---
 
 ## Parcours
 
-- **2026 - en cours** : Bachelor Sciences des Données, EST Kelâa des Sraghna
-- **2024 - 2026** : DUT Ingénierie des Donnée, EST Kelâa des Sraghna
-- **2025 - 2026** : trois stages en développement d'applications, data engineering et IA, et data et BI
-- **2024** : Baccalauréat scientifique, mention Très Bien
+- **2026 - en cours** : Bachelor Sciences des Données, EST Kelâa des Sraghna (Université Cadi Ayyad)
+- **2024 - 2026** : DUT Ingénierie des Données, mention Bien, EST Kelâa des Sraghna (Université Cadi Ayyad)
+- **2025 - 2026** : trois stages : développement d'applications (Municipalité de Kelâa des Sraghna, été 2025), data engineering et IA (D-Business Consulting, avril à juin 2026), data et BI (Groupe A. Lazrak Immobilier, juin à août 2026)
 
 ---
 
-## Stack
+## Compétences
 
-| Domaine | Outils |
+| Domaine | Technologies |
 |---|---|
-| Langages | Python, SQL, R |
-| Data Engineering | Apache Kafka, Apache Spark, Pandas, ETL, DuckDB, Parquet, SQL Server, MySQL |
-| Machine Learning | Scikit-learn, XGBoost, Isolation Forest, RAG, LangChain, Mistral AI |
+| Langages | Python, SQL, R, C |
+| Data engineering | Kafka, Spark, Pandas, ETL, DuckDB, Parquet, SQL Server, MySQL |
+| Machine learning | Scikit-learn, XGBoost, Isolation Forest, RAG, LangChain, Mistral AI |
 | API et interfaces | FastAPI, Flask, REST, Streamlit |
-| Outils et exploitation | Docker, Docker Compose, Git, GitHub Actions, pytest, ruff, Prometheus, Grafana |
+| Outils | Docker, Docker Compose, Git, GitHub Actions, pytest, ruff, Prometheus, Grafana |
+
+Ces technologies viennent de mes stages et de mes projets ; leur niveau de maîtrise n'est pas identique pour toutes.
 
 ---
 
-## Projets mis en avant
+## Projets
 
-### NexaDecide : plateforme d'aide à la décision basée sur l'IA
-Réalisé pendant mon stage chez D-Business Consulting (2026).
-- Pipeline ETL de **443 154 enregistrements** (SQL Server vers DuckDB / Parquet) : lecture en **moins de 100 ms** contre 15 à 30 s en accès direct
-- API **FastAPI** (9 endpoints, route de santé) et interface **Streamlit** de 10 pages
-- Modèle **XGBoost** de prévision du chiffre d'affaires (MAPE de 8,9 % sur données simulées) et recommandations **Mistral AI / LangChain (RAG)**
-- Dépôt : [nexadecide-decision-system](https://github.com/Samah-boudallaa/nexadecide-decision-system)
+### NexaDecide
 
-### Smart Data Pipeline : pipeline IoT temps réel
-Projet de fin d'études du DUT, en équipe de 3 (2026).
-- Architecture événementielle **Kafka (KRaft)** sur environ 132 000 mesures de capteurs simulées, moteur adaptatif Pandas / Spark
-- Détection d'anomalies par **Isolation Forest**
-- Supervision avec **Prometheus** (8 métriques) et **Grafana**, 6 conteneurs orchestrés avec **Docker Compose**
-- Tests en local : traitement inférieur à 500 ms par message, plus de 28 400 messages traités sans perte
-- Dépôt : [smart-data-pipeline-pfe](https://github.com/Samah-boudallaa/smart-data-pipeline-pfe)
+*Plateforme d'aide à la décision, réalisée pendant mon stage chez D-Business Consulting (avril à juin 2026).*
 
-### GraphGen : analyse exploratoire de fichiers CSV et Excel
-Application web réalisée en binôme (2025).
-- Flask et Plotly
-- **12 tests pytest**, linter **ruff**, intégration continue **GitHub Actions**
+- Pipeline ETL de **443 154 enregistrements** : SQL Server vers DuckDB et Parquet. Lecture du cache en **moins de 100 ms**, contre 15 à 30 s en interrogation directe de SQL Server
+- API **FastAPI** de 9 endpoints et interface **Streamlit** de 10 pages
+- Prévision du chiffre d'affaires avec **XGBoost** (MAPE de 8,9 %, mesuré sur des données simulées)
+- Recommandations avec **Mistral AI**, **LangChain** et **RAG**
+- Connexion à Odoo CRM par XML-RPC, sur une instance de test
+
+**Stack :** Python, FastAPI, Streamlit, DuckDB, Parquet, XGBoost, LangChain, Mistral AI
+**Dépôt :** [nexadecide-decision-system](https://github.com/Samah-boudallaa/nexadecide-decision-system)
+
+### Smart Data Pipeline
+
+*Projet de fin d'études du DUT, réalisé en équipe de trois (2026).*
+
+- Pipeline temps réel sur un flux simulé d'environ 132 000 mesures, avec **Kafka** en mode KRaft
+- Traitement adaptatif **Pandas / Spark** et détection d'anomalies avec **Isolation Forest**
+- Supervision avec **Prometheus** (8 métriques) et **Grafana**, six conteneurs orchestrés avec **Docker Compose**
+- Tests locaux : moins de 500 ms par message et plus de 28 400 messages traités sans perte
+
+**Stack :** Python, Kafka, Spark, Pandas, Isolation Forest, Prometheus, Grafana, Docker Compose
+**Dépôt :** [smart-data-pipeline-pfe](https://github.com/Samah-boudallaa/smart-data-pipeline-pfe)
+
+### GraphGen
+
+*Application web d'analyse exploratoire de fichiers CSV et Excel, réalisée en binôme avec [Chaymae El Bahloul](https://github.com/Chaymae-El-Bahloul).*
+
+- Application **Flask** avec des graphiques interactifs **Plotly**
+- **12 tests pytest**, linter **ruff** et intégration continue **GitHub Actions**
 - Conteneur **Docker** non-root avec healthcheck
-- Dépôt : [GraphGen](https://github.com/Samah-boudallaa/GraphGen)
 
-Les résultats chiffrés proviennent de tests en local ou de données simulées.
+**Stack :** Python, Flask, Plotly, pytest, ruff, GitHub Actions, Docker
+**Dépôt :** [GraphGen](https://github.com/Samah-boudallaa/GraphGen)
+
+> Les résultats chiffrés proviennent de tests locaux ou de données simulées.
 
 ---
 
-## Ce que j'explore en ce moment
+## En cours d'exploration
+
+Ces sujets ne sont pas encore pratiqués en production :
 
 - Suivi d'expériences et versioning de modèles avec **MLflow**
-- Détection de **dérive** des données et des modèles
-- Intégration et déploiement continus appliqués à un modèle de machine learning
-- **Kubernetes**, Linux / Bash et orchestration de pipelines
+- Détection de dérive des données et des modèles
+- CI/CD appliqué au machine learning
+- **Kubernetes**, Linux et Bash
 
 ---
 
-## Me contacter
+## Contact
+
+[Portfolio](https://samah-boudallaa.github.io) | [LinkedIn](https://www.linkedin.com/in/samah-boudallaa-92409a329) | [samahboudallaa@gmail.com](mailto:samahboudallaa@gmail.com)
 
 Ouverte aux stages et aux opportunités en data, machine learning et IA.
-Me contacter via [e-mail](mailto:s.boudallaa2659@uca.ac.com) ou [LinkedIn](https://www.linkedin.com/in/samah-boudallaa-92409a329).
