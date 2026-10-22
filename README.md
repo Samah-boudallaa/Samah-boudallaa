@@ -287,7 +287,7 @@ timeline
 
 <td valign="top" width="50%">
 
-<h3>🔭 En cours d'exploration</h3>
+<h3> En cours d'exploration</h3>
 <sub>Sujets que j'apprends activement, pas encore pratiqués en production.</sub>
 <ul>
 <li>Suivi d'expériences et versioning des modèles avec <b>MLflow</b></li>
@@ -300,7 +300,7 @@ timeline
 
 <td valign="top" width="50%">
 
-<h3>📬 Me contacter</h3>
+<h3> Me contacter</h3>
 <sub>Ouverte aux stages et aux opportunités en data engineering, machine learning et IA.</sub>
 <br/><br/>
 <a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
