@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:7c3aed&height=190&section=header&text=Samah%20Boudallaa&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Bachelor%20Sciences%20des%20Donn%C3%A9es%20%C2%B7%20Data%20Engineering%20%C2%B7%20Machine%20Learning%20%26%20IA&descSize=17&descAlignY=60" alt="Samah Boudallaa" width="100%"/>
 
 <p>
-Étudiante à l'<b>EST Kelâa des Sraghna (Université Cadi Ayyad)</b>, je conçois des solutions de bout en bout :<br/>
+Étudiante à l'<b>Université Cadi Ayyad</b>, je conçois des solutions de bout en bout :<br/>
 de la donnée brute au modèle exposé par une API, avec des tests, des conteneurs et un suivi des performances.<br/>
 Je m'intéresse particulièrement aux <b>pipelines fiables</b>, à la <b>qualité logicielle</b> et à l'<b>industrialisation des solutions data</b>.
 </p>
