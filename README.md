@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Samah Boudallaa · Data Engineering, Machine Learning et IA" width="100%"/>
+<img src="hero.svg" alt="Samah Boudallaa · Data Engineering, Machine Learning et IA" width="100%"/>
 
 <a href="https://github.com/Samah-boudallaa"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Data+Engineering+%C2%B7+pipelines+temps+r%C3%A9el;Machine+Learning+%C2%B7+de+la+pr%C3%A9vision+au+RAG;Industrialisation+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Supervision;Ouverte+aux+stages+et+opportunit%C3%A9s" alt="Texte animé"/></a>
 
