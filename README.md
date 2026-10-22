@@ -69,4 +69,4 @@ Les résultats chiffrés proviennent de tests en local ou de données simulées.
 ## Me contacter
 
 Ouverte aux stages et aux opportunités en data, machine learning et IA.
-Écrivez-moi par [e-mail](mailto:s.boudallaa2659@uca.ac.com) ou sur [LinkedIn](https://www.linkedin.com/in/samah-boudallaa-92409a329).
+Me contacter via [e-mail](mailto:s.boudallaa2659@uca.ac.com) ou [LinkedIn](https://www.linkedin.com/in/samah-boudallaa-92409a329).
