@@ -51,7 +51,7 @@ class Samah:
 <br/>
 
 <div align="center">
-<img src="./assets/pipeline.svg" alt="Flux de données de bout en bout" width="100%"/>
+<img src="pipeline.svg" alt="Flux de données de bout en bout" width="100%"/>
 </div>
 
 <br/>
