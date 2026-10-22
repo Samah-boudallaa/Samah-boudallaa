@@ -2,8 +2,6 @@
 
 <img src="./hero.svg" alt="Samah Boudallaa · Data Engineering, Machine Learning et IA" width="100%"/>
 
-<a href="https://github.com/Samah-boudallaa"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Data+Engineering+%C2%B7+pipelines+temps+r%C3%A9el;Machine+Learning+%C2%B7+de+la+pr%C3%A9vision+au+RAG;Industrialisation+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Supervision;Ouverte+aux+stages+et+opportunit%C3%A9s" alt="Texte animé"/></a>
-
 <br/>
 
 <a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-samah--boudallaa.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
@@ -29,16 +27,16 @@
 
 <div align="center">
 
-###  Navigation
+### Navigation
 
-| [ Projets](#-projets) | [ Architectures](#️-architectures) | [ Stack](#-stack-technique) | [ Activité](#-activité-github) | [ Parcours](#-parcours) | [ Contact](#-me-contacter) |
+| [Projets](#projets) | [Architectures](#architectures) | [Stack](#stack-technique) | [Activité](#activité-github) | [Parcours](#parcours) | [Contact](#me-contacter) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
 <br/>
 
-##  En 30 secondes
+## En 30 secondes
 
 ```python
 class Samah:
@@ -62,7 +60,7 @@ class Samah:
 
 <br/>
 
-##  Projets
+## Projets
 
 <table>
 <tr>
@@ -148,7 +146,7 @@ class Samah:
 <br/>
 
 <details>
-<summary><b> Pourquoi ces projets ? Ce qu'ils montrent de ma façon de travailler</b></summary>
+<summary><b>Pourquoi ces projets ? Ce qu'ils montrent de ma façon de travailler</b></summary>
 
 <br/>
 
@@ -162,7 +160,7 @@ class Samah:
 
 <br/>
 
-##  Architectures
+## Architectures
 
 > Cliquez sur un projet pour déplier son schéma.
 
@@ -228,7 +226,7 @@ flowchart LR
 
 <br/>
 
-##  Activité GitHub
+## Activité GitHub
 
 > Ce tableau de bord n'est pas un widget tiers : il est **généré chaque jour par mon propre pipeline** (script Python + GitHub Actions) à partir de l'API GitHub. Un pipeline de données, appliqué à mon propre profil.
 
@@ -246,15 +244,35 @@ flowchart LR
 
 <br/>
 
-<img src="./3d-contrib.svg" alt="Contributions en 3D" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Contributions en 3D" width="100%"/>
 
 <sub><i>Une part du travail de stage est dans des dépôts privés et n'apparaît pas ici.</i></sub>
 
 </div>
 
+<details>
+<summary><b>Comment ce tableau de bord est produit</b></summary>
+
 <br/>
 
-##  Parcours
+Rien n'est copié à la main : un workflow GitHub Actions interroge l'API GitHub (REST et GraphQL), un script Python calcule les indicateurs et écrit des fichiers SVG animés, puis le résultat est commité automatiquement. C'est un petit pipeline de données, appliqué à mon propre profil.
+
+```mermaid
+flowchart LR
+    A["GitHub Actions<br/>exécution planifiée"] --> B["Script Python<br/>API REST + GraphQL"]
+    B --> C["stats.svg<br/>tableau de bord animé"]
+    A --> D["Snake<br/>grille de contributions"]
+    A --> E["Vue 3D<br/>contributions"]
+    C --> F["README du profil"]
+    D --> F
+    E --> F
+```
+
+</details>
+
+<br/>
+
+## Parcours
 
 ```mermaid
 timeline
@@ -269,7 +287,7 @@ timeline
 ```
 
 <details>
-<summary><b> Version tableau</b></summary>
+<summary><b>Version tableau</b></summary>
 
 | Période | Intitulé | Détail |
 |---|---|---|
@@ -282,12 +300,14 @@ timeline
 
 <br/>
 
+<a name="me-contacter"></a>
+
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-<h3> En cours d'exploration</h3>
+<h3>En cours d'exploration</h3>
 <sub>Sujets que j'apprends activement, pas encore pratiqués en production.</sub>
 <ul>
 <li>Suivi d'expériences et versioning des modèles avec <b>MLflow</b></li>
@@ -300,7 +320,7 @@ timeline
 
 <td valign="top" width="50%">
 
-<h3> Me contacter</h3>
+<h3>Me contacter</h3>
 <sub>Ouverte aux stages et aux opportunités en data engineering, machine learning et IA.</sub>
 <br/><br/>
 <a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
@@ -313,20 +333,19 @@ timeline
 </table>
 
 <details>
-<summary><b> Easter egg</b></summary>
+<summary><b>Easter egg</b></summary>
 
 <br/>
 
 ```bash
 $ docker compose up -d
 [+] Running 6/6
- ✔ Container kafka         Started
- ✔ Container spark         Started
- ✔ Container anomaly-ml    Started
- ✔ Container prometheus    Started
- ✔ Container grafana       Started
- ✔ Container samah         Started   # recrutez-moi 
-```
+ Container kafka         Started
+ Container spark         Started
+ Container anomaly-ml    Started
+ Container prometheus    Started
+ Container grafana       Started
+ Container samah         Started   # recrutez-moi ```
 
 </details>
 
