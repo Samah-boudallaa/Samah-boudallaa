@@ -246,7 +246,7 @@ flowchart LR
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Contributions en 3D" width="100%"/>
+<img src="./3d-contrib.svg" alt="Contributions en 3D" width="100%"/>
 
 <sub><i>Une part du travail de stage est dans des dépôts privés et n'apparaît pas ici.</i></sub>
 
