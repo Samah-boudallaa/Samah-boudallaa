@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="banner.svg" alt="Samah Boudallaa - Data Engineering, Machine Learning et IA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:7c3aed&height=180&section=header&text=Samah%20Boudallaa&fontSize=46&fontColor=ffffff&fontAlignY=40" alt="Samah Boudallaa" width="100%"/>
+
+<h3>Bachelor Sciences des Données · Data Engineering · Machine Learning &amp; IA</h3>
 
 <p>
-Étudiante à l'<b>Université Cadi Ayyad</b>, je conçois des solutions de bout en bout :<br/>
+Étudiante à l'<b>EST Kelâa des Sraghna (Université Cadi Ayyad)</b>, je conçois des solutions de bout en bout :<br/>
 de la donnée brute au modèle exposé par une API, avec des tests, des conteneurs et un suivi des performances.<br/>
 Je m'intéresse particulièrement aux <b>pipelines fiables</b>, à la <b>qualité logicielle</b> et à l'<b>industrialisation des solutions data</b>.
 </p>
@@ -213,6 +215,6 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1f6feb&height=110&section=footer&text=Merci%20pour%20votre%20visite&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="Merci pour votre visite" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1f6feb&height=120&section=footer&text=Merci%20pour%20votre%20visite&fontSize=22&fontColor=ffffff&fontAlignY=45" alt="Merci pour votre visite" width="100%"/>
 
 </div>
