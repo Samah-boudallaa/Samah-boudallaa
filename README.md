@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:7c3aed&height=190&section=header&text=Samah%20Boudallaa&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Bachelor%20Sciences%20des%20Donn%C3%A9es%20%C2%B7%20Data%20Engineering%20%C2%B7%20Machine%20Learning%20%26%20IA&descSize=17&descAlignY=60" alt="Samah Boudallaa" width="100%"/>
+<img src="banner.svg" alt="Samah Boudallaa - Data Engineering, Machine Learning et IA" width="100%"/>
 
 <p>
 Étudiante à l'<b>Université Cadi Ayyad</b>, je conçois des solutions de bout en bout :<br/>
