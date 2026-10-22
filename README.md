@@ -177,7 +177,7 @@ flowchart LR
 | Période | Intitulé | Détail |
 |---|---|---|
 | **2026 – en cours** | **Bachelor Sciences des Données** | EST Kelâa des Sraghna (Université Cadi Ayyad) |
-| **2024 – 2026** | **DUT Ingénierie des Données** | EST Kelâa des Sraghna · mention Bien |
+| **2024 – 2026** | **DUT Ingénierie des Données** | EST Kelâa des Sraghna |
 | **2025 – 2026** | **Trois stages** | Développement d'applications (été 2025) · Data engineering et IA (avril – juin 2026) · Data et BI (juin – août 2026) |
 | **2024** | **Baccalauréat scientifique** | Mention Très Bien |
 
