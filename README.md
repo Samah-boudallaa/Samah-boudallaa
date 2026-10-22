@@ -4,7 +4,7 @@
 
 Passionnée par la donnée, l'ingénierie logicielle et l'intelligence artificielle, j'aime construire des solutions de bout en bout : partir de la donnée brute, la transformer, entraîner un modèle, l'exposer par une API et vérifier qu'il fonctionne de façon fiable. Je privilégie les projets concrets, testés et mesurés.
 
-Maroc | [Portfolio](https://samah-boudallaa.github.io) | [LinkedIn](https://www.linkedin.com/in/samah-boudallaa-92409a329) | [samahboudallaa@gmail.com](mailto:samahboudallaa@gmail.com)
+Maroc | [Portfolio](https://samah-boudallaa.github.io) | [LinkedIn](https://www.linkedin.com/in/samah-boudallaa-92409a329) | [s.boudallaa2659@uca.ac.ma](mailto:s.boudallaa2659@uca.ac.ma)
 
 ---
 
