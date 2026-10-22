@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:7c3aed&height=180&section=header&text=Samah%20Boudallaa&fontSize=46&fontColor=ffffff&fontAlignY=40" alt="Samah Boudallaa" width="100%"/>
+<img src="./assets/hero.svg" alt="Samah Boudallaa · Data Engineering, Machine Learning et IA" width="100%"/>
 
-<h3>Bachelor Sciences des Données · Data Engineering · Machine Learning &amp; IA</h3>
+<a href="https://github.com/Samah-boudallaa"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Data+Engineering+%C2%B7+pipelines+temps+r%C3%A9el;Machine+Learning+%C2%B7+de+la+pr%C3%A9vision+au+RAG;Industrialisation+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Supervision;Ouverte+aux+stages+et+opportunit%C3%A9s" alt="Texte animé"/></a>
 
-<p>
-Étudiante à l'<b>Université Cadi Ayyad</b>, je conçois des solutions de bout en bout :<br/>
-de la donnée brute au modèle exposé par une API, avec des tests, des conteneurs et un suivi des performances.<br/>
-Je m'intéresse particulièrement aux <b>pipelines fiables</b>, à la <b>qualité logicielle</b> et à l'<b>industrialisation des solutions data</b>.
-</p>
+<br/>
 
 <a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-samah--boudallaa.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/samah-boudallaa-92409a329"><img src="https://img.shields.io/badge/LinkedIn-Samah%20Boudallaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,13 +13,50 @@ Je m'intéresse particulièrement aux <b>pipelines fiables</b>, à la <b>qualit�
 
 <br/><br/>
 
-<b>Ouverte aux stages et aux opportunités en data engineering, machine learning et IA.</b>
+<img src="https://img.shields.io/badge/statut-ouverte%20aux%20stages-3fb950?style=flat-square&logo=statuspage&logoColor=white" alt="Statut"/>
+<img src="https://img.shields.io/badge/focus-data%20engineering%20%C2%B7%20ML%20%C2%B7%20IA-a371f7?style=flat-square" alt="Focus"/>
+<img src="https://komarev.com/ghpvc/?username=Samah-boudallaa&label=visites&color=1f6feb&style=flat-square" alt="Visites"/>
 
 </div>
 
 <br/>
 
-## Projets
+<div align="center">
+
+###  Navigation
+
+| [ Projets](#-projets) | [ Architectures](#️-architectures) | [ Stack](#-stack-technique) | [ Activité](#-activité-github) | [ Parcours](#-parcours) | [ Contact](#-me-contacter) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<br/>
+
+##  En 30 secondes
+
+```python
+class Samah:
+    nom        = "Samah Boudallaa"
+    formation  = "Bachelor Sciences des Données · Université Cadi Ayyad"
+    ville      = "Maroc"
+    specialite = ["Data Engineering", "Machine Learning", "IA"]
+    je_crois_a = ["pipelines fiables", "qualité logicielle", "industrialisation"]
+    en_ce_moment = "j'explore MLflow, la dérive des modèles et Kubernetes"
+    cherche    = "stage en data engineering / ML / IA"
+
+    def pitch(self):
+        return "De la donnée brute au modèle exposé par une API, avec tests, conteneurs et suivi."
+```
+
+<br/>
+
+<div align="center">
+<img src="./assets/pipeline.svg" alt="Flux de données de bout en bout" width="100%"/>
+</div>
+
+<br/>
+
+##  Projets
 
 <table>
 <tr>
@@ -108,7 +141,24 @@ Je m'intéresse particulièrement aux <b>pipelines fiables</b>, à la <b>qualit�
 
 <br/>
 
-### Architectures
+<details>
+<summary><b> Pourquoi ces projets ? Ce qu'ils montrent de ma façon de travailler</b></summary>
+
+<br/>
+
+| Projet | Compétence démontrée | Preuve dans le dépôt |
+|---|---|---|
+| **Smart Data Pipeline** | Concevoir un flux temps réel observable | Kafka, métriques Prometheus, tableaux de bord Grafana, `docker-compose.yml` |
+| **NexaDecide** | Relier données, modèles et usages métier | ETL, cache DuckDB/Parquet, API FastAPI, prévision, RAG |
+| **GraphGen** | Livrer un logiciel propre et reproductible | Tests pytest, ruff, CI GitHub Actions, image Docker non-root |
+
+</details>
+
+<br/>
+
+##  Architectures
+
+> Cliquez sur un projet pour déplier son schéma.
 
 <details>
 <summary><b>01 · Smart Data Pipeline</b> — flux IoT temps réel, détection d'anomalies et supervision</summary>
@@ -158,7 +208,7 @@ flowchart LR
 
 <br/>
 
-## Stack technique
+##  Stack technique
 
 | Domaine | Technologies |
 |---|---|
@@ -172,7 +222,55 @@ flowchart LR
 
 <br/>
 
-## Parcours
+## 📈 Activité GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samah-boudallaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&rank_icon=github" alt="Statistiques GitHub" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samah-boudallaa&theme=tokyonight&hide_border=true&background=0d1117" alt="Séries de contributions" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samah-boudallaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Langages les plus utilisés" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samah-boudallaa&bg_color=0d1117&color=58a6ff&line=a371f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Graphique d'activité" width="100%"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samah-boudallaa/Samah-boudallaa/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samah-boudallaa/Samah-boudallaa/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake qui mange mes contributions" src="https://raw.githubusercontent.com/Samah-boudallaa/Samah-boudallaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Contributions en 3D" width="100%"/>
+
+<sub><i>Les visuels se régénèrent automatiquement via GitHub Actions. Une part du travail de stage est dans des dépôts privés et n'apparaît pas ici.</i></sub>
+
+</div>
+
+<br/>
+
+##  Parcours
+
+```mermaid
+timeline
+    title Mon parcours
+    2024 : Baccalauréat scientifique (Mention Très Bien)
+         : Entrée au DUT Ingénierie des Données · EST Kelâa des Sraghna
+    2025 : Stage développement d'applications (été)
+    2026 : PFE Smart Data Pipeline
+         : Stage data engineering et IA · D-Business Consulting (avril – juin)
+         : Stage data et BI (juin – août)
+         : Bachelor Sciences des Données · Université Cadi Ayyad
+```
+
+<details>
+<summary><b> Version tableau</b></summary>
 
 | Période | Intitulé | Détail |
 |---|---|---|
@@ -181,6 +279,8 @@ flowchart LR
 | **2025 – 2026** | **Trois stages** | Développement d'applications (été 2025) · Data engineering et IA (avril – juin 2026) · Data et BI (juin – août 2026) |
 | **2024** | **Baccalauréat scientifique** | Mention Très Bien |
 
+</details>
+
 <br/>
 
 <table>
@@ -188,7 +288,7 @@ flowchart LR
 
 <td valign="top" width="50%">
 
-<h3>En cours d'exploration</h3>
+<h3> En cours d'exploration</h3>
 <sub>Sujets que j'apprends activement, pas encore pratiqués en production.</sub>
 <ul>
 <li>Suivi d'expériences et versioning des modèles avec <b>MLflow</b></li>
@@ -201,7 +301,7 @@ flowchart LR
 
 <td valign="top" width="50%">
 
-<h3>Me contacter</h3>
+<h3> Me contacter</h3>
 <sub>Ouverte aux stages et aux opportunités en data engineering, machine learning et IA.</sub>
 <br/><br/>
 <a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
@@ -213,8 +313,26 @@ flowchart LR
 </tr>
 </table>
 
+<details>
+<summary><b> Easter egg</b></summary>
+
+<br/>
+
+```bash
+$ docker compose up -d
+[+] Running 6/6
+ ✔ Container kafka         Started
+ ✔ Container spark         Started
+ ✔ Container anomaly-ml    Started
+ ✔ Container prometheus    Started
+ ✔ Container grafana       Started
+ ✔ Container samah         Started   # recrutez-moi 
+```
+
+</details>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1f6feb&height=120&section=footer&text=Merci%20pour%20votre%20visite&fontSize=22&fontColor=ffffff&fontAlignY=45" alt="Merci pour votre visite" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1f6feb&height=120&section=footer&text=Merci%20pour%20votre%20visite&fontSize=22&fontColor=ffffff&fontAlignY=45&animation=twinkling" alt="Merci pour votre visite" width="100%"/>
 
 </div>
