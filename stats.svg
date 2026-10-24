@@ -9,7 +9,7 @@
 @keyframes p{50%{opacity:.25}}
 @media (prefers-reduced-motion:reduce){.k,.b,.c,.live{animation:none}}</style></defs>
 <rect width="1000" height="590" rx="16" fill="#0d1117"/><rect width="1000" height="590" rx="16" fill="url(#g)"/>
-<circle class="live" cx="34" cy="34" r="5" fill="#3fb950"/><text x="50" y="39" class="m" font-size="13" fill="#8b949e">LIVE · tableau de bord généré par pipeline · @Samah-boudallaa · maj 23/10/2026</text>
+<circle class="live" cx="34" cy="34" r="5" fill="#3fb950"/><text x="50" y="39" class="m" font-size="13" fill="#8b949e">LIVE · tableau de bord généré par pipeline · @Samah-boudallaa · maj 24/10/2026</text>
 <g class="k" style="animation-delay:0.00s"><rect x="30" y="60" width="222" height="86" rx="12" fill="#161b22" stroke="#58a6ff" stroke-opacity=".6"/><text x="50" y="92" class="m" font-size="12" fill="#8b949e" letter-spacing="1">DÉPÔTS PUBLICS</text><text x="50" y="130" class="m" font-size="36" font-weight="700" fill="#58a6ff">16</text></g>
 <g class="k" style="animation-delay:0.15s"><rect x="268" y="60" width="222" height="86" rx="12" fill="#161b22" stroke="#a371f7" stroke-opacity=".6"/><text x="288" y="92" class="m" font-size="12" fill="#8b949e" letter-spacing="1">CONTRIBUTIONS (12 MOIS)</text><text x="288" y="130" class="m" font-size="36" font-weight="700" fill="#a371f7">234</text></g>
 <g class="k" style="animation-delay:0.30s"><rect x="506" y="60" width="222" height="86" rx="12" fill="#161b22" stroke="#3fb950" stroke-opacity=".6"/><text x="526" y="92" class="m" font-size="12" fill="#8b949e" letter-spacing="1">JOURS ACTIFS</text><text x="526" y="130" class="m" font-size="36" font-weight="700" fill="#3fb950">37</text></g>
@@ -385,6 +385,7 @@
 <rect class="c" x="758" y="234" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.56s"><title>0 contribution(s) le 2026-10-21</title></rect>
 <rect class="c" x="758" y="248" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.56s"><title>34 contribution(s) le 2026-10-22</title></rect>
 <rect class="c" x="758" y="262" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.56s"><title>0 contribution(s) le 2026-10-23</title></rect>
+<rect class="c" x="758" y="276" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.56s"><title>0 contribution(s) le 2026-10-24</title></rect>
 <text x="640" y="310" class="m" font-size="11" fill="#6e7681">Moins</text>
 <rect x="680" y="301" width="12" height="12" rx="3" fill="#161b22"/>
 <rect x="696" y="301" width="12" height="12" rx="3" fill="#1f3a6e"/>
@@ -392,7 +393,7 @@
 <rect x="728" y="301" width="12" height="12" rx="3" fill="#8957e5"/>
 <rect x="744" y="301" width="12" height="12" rx="3" fill="#d2a8ff"/>
 <text x="768" y="310" class="m" font-size="11" fill="#6e7681">Plus</text>
-<text x="805" y="212" class="m" font-size="11" fill="#8b949e" letter-spacing="1">SÉRIE ACTUELLE</text><text x="805" y="244" class="m" font-size="26" font-weight="700" fill="#58a6ff">1 j</text><text x="805" y="274" class="m" font-size="11" fill="#8b949e" letter-spacing="1">SÉRIE MAXIMALE</text><text x="805" y="306" class="m" font-size="26" font-weight="700" fill="#a371f7">3 j</text>
+<text x="805" y="212" class="m" font-size="11" fill="#8b949e" letter-spacing="1">SÉRIE ACTUELLE</text><text x="805" y="244" class="m" font-size="26" font-weight="700" fill="#58a6ff">0 j</text><text x="805" y="274" class="m" font-size="11" fill="#8b949e" letter-spacing="1">SÉRIE MAXIMALE</text><text x="805" y="306" class="m" font-size="26" font-weight="700" fill="#a371f7">3 j</text>
 <text x="30" y="352" class="m" font-size="14" fill="#c9d1d9" font-weight="700">LANGAGES (octets de code, dépôts publics)</text>
 <g class="k" style="animation-delay:0.40s"><text x="30" y="386" class="m" font-size="13" fill="#c9d1d9">Python</text><rect x="170" y="372" width="330" height="18" rx="9" fill="#21262d"/><rect class="b" x="170" y="372" width="330" height="18" rx="9" fill="#3572A5" style="animation-delay:0.50s"/><text x="515" y="386" class="m" font-size="13" fill="#8b949e">62.3%</text></g>
 <g class="k" style="animation-delay:0.52s"><text x="30" y="418" class="m" font-size="13" fill="#c9d1d9">HTML</text><rect x="170" y="404" width="330" height="18" rx="9" fill="#21262d"/><rect class="b" x="170" y="404" width="184" height="18" rx="9" fill="#e34c26" style="animation-delay:0.62s"/><text x="515" y="418" class="m" font-size="13" fill="#8b949e">34.8%</text></g>
