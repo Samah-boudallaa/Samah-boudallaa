@@ -9,7 +9,7 @@
 @keyframes p{50%{opacity:.25}}
 @media (prefers-reduced-motion:reduce){.k,.b,.c,.live{animation:none}}</style></defs>
 <rect width="1000" height="590" rx="16" fill="#0d1117"/><rect width="1000" height="590" rx="16" fill="url(#g)"/>
-<circle class="live" cx="34" cy="34" r="5" fill="#3fb950"/><text x="50" y="39" class="m" font-size="13" fill="#8b949e">LIVE · tableau de bord généré par pipeline · @Samah-boudallaa · maj 25/10/2026</text>
+<circle class="live" cx="34" cy="34" r="5" fill="#3fb950"/><text x="50" y="39" class="m" font-size="13" fill="#8b949e">LIVE · tableau de bord généré par pipeline · @Samah-boudallaa · maj 26/10/2026</text>
 <g class="k" style="animation-delay:0.00s"><rect x="30" y="60" width="222" height="86" rx="12" fill="#161b22" stroke="#58a6ff" stroke-opacity=".6"/><text x="50" y="92" class="m" font-size="12" fill="#8b949e" letter-spacing="1">DÉPÔTS PUBLICS</text><text x="50" y="130" class="m" font-size="36" font-weight="700" fill="#58a6ff">16</text></g>
 <g class="k" style="animation-delay:0.15s"><rect x="268" y="60" width="222" height="86" rx="12" fill="#161b22" stroke="#a371f7" stroke-opacity=".6"/><text x="288" y="92" class="m" font-size="12" fill="#8b949e" letter-spacing="1">CONTRIBUTIONS (12 MOIS)</text><text x="288" y="130" class="m" font-size="36" font-weight="700" fill="#a371f7">234</text></g>
 <g class="k" style="animation-delay:0.30s"><rect x="506" y="60" width="222" height="86" rx="12" fill="#161b22" stroke="#3fb950" stroke-opacity=".6"/><text x="526" y="92" class="m" font-size="12" fill="#8b949e" letter-spacing="1">JOURS ACTIFS</text><text x="526" y="130" class="m" font-size="36" font-weight="700" fill="#3fb950">37</text></g>
@@ -380,6 +380,7 @@
 <rect class="c" x="744" y="262" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.53s"><title>0 contribution(s) le 2026-10-23</title></rect>
 <rect class="c" x="744" y="276" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.53s"><title>0 contribution(s) le 2026-10-24</title></rect>
 <rect class="c" x="758" y="192" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.56s"><title>0 contribution(s) le 2026-10-25</title></rect>
+<rect class="c" x="758" y="206" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.56s"><title>0 contribution(s) le 2026-10-26</title></rect>
 <text x="640" y="310" class="m" font-size="11" fill="#6e7681">Moins</text>
 <rect x="680" y="301" width="12" height="12" rx="3" fill="#161b22"/>
 <rect x="696" y="301" width="12" height="12" rx="3" fill="#1f3a6e"/>
