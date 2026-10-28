@@ -52,6 +52,23 @@ class Samah:
         return "De la donnée brute au modèle exposé par une API, avec tests, conteneurs et suivi."
 ```
 
+<table>
+<tr>
+<td valign="top" width="33%">
+<sub>🎯 <b>JE CHERCHE</b></sub><br/>
+Un stage en <b>data engineering</b>, <b>machine learning</b> ou <b>IA</b>, où la donnée finit réellement en production.
+</td>
+<td valign="top" width="33%">
+<sub>⚙️ <b>J'APPORTE</b></sub><br/>
+Des pipelines streaming et batch, des API, des tests, de la CI et des conteneurs : le tout <b>reproductible</b>.
+</td>
+<td valign="top" width="33%">
+<sub>🧪 <b>À VÉRIFIER</b></sub><br/>
+Chaque projet ci-dessous a son dépôt public, son schéma d'architecture et des chiffres issus de tests réels.
+</td>
+</tr>
+</table>
+
 <br/>
 
 <div align="center">
@@ -86,6 +103,8 @@ class Samah:
 
 <br/><br/>
 <a href="https://github.com/Samah-boudallaa/smart-data-pipeline-pfe"><img src="https://img.shields.io/badge/Voir%20le%20d%C3%A9p%C3%B4t-smart--data--pipeline--pfe-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt Smart Data Pipeline"/></a>
+<br/>
+<img src="https://img.shields.io/github/last-commit/Samah-boudallaa/smart-data-pipeline-pfe?style=flat-square&label=dernier%20commit&color=1f6feb" alt="Dernier commit"/>
 
 </td>
 
@@ -111,6 +130,8 @@ class Samah:
 
 <br/><br/>
 <a href="https://github.com/Samah-boudallaa/nexadecide-decision-system"><img src="https://img.shields.io/badge/Voir%20le%20d%C3%A9p%C3%B4t-nexadecide--decision--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt NexaDecide"/></a>
+<br/>
+<img src="https://img.shields.io/github/last-commit/Samah-boudallaa/nexadecide-decision-system?style=flat-square&label=dernier%20commit&color=a371f7" alt="Dernier commit"/>
 
 </td>
 
@@ -135,6 +156,8 @@ class Samah:
 
 <br/><br/>
 <a href="https://github.com/Samah-boudallaa/GraphGen"><img src="https://img.shields.io/badge/Voir%20le%20d%C3%A9p%C3%B4t-GraphGen-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt GraphGen"/></a>
+<br/>
+<a href="https://github.com/Samah-boudallaa/GraphGen/actions/workflows/ci.yml"><img src="https://github.com/Samah-boudallaa/GraphGen/actions/workflows/ci.yml/badge.svg" alt="Statut de la CI GraphGen"/></a>
 
 </td>
 
@@ -246,7 +269,7 @@ flowchart LR
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contributions en 3D" width="100%"/>
 
-<sub><i>Une part du travail de stage est dans des dépôts privés et n'apparaît pas ici.</i></sub>
+<sub><i>Une part du travail de stage est dans des dépôts privés : selon le jeton utilisé, elle est comptée à part ou absente de ces graphiques.<br/>La page du profil GitHub, elle, additionne les contributions publiques et privées.</i></sub>
 
 </div>
 
@@ -345,7 +368,8 @@ $ docker compose up -d
  Container anomaly-ml    Started
  Container prometheus    Started
  Container grafana       Started
- Container samah         Started   # recrutez-moi ```
+ Container samah         Started   # recrutez-moi
+```
 
 </details>
 
