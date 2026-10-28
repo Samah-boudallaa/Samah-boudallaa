@@ -1,70 +1,48 @@
-<div align="center">
+<p align="right"><sub><b>EN</b> · <a href="./README.fr.md" title="Lire en français">FR</a></sub></p>
 
-<img src="./hero.svg" alt="Samah Boudallaa · Data Engineering, Machine Learning et IA" width="100%"/>
+<img src="./hero-en.svg" alt="Samah Boudallaa, Data Engineering, Machine Learning and AI" width="100%"/>
+
+<div align="center">
 
 <br/>
 
-<a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-samah--boudallaa.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/samah-boudallaa-92409a329"><img src="https://img.shields.io/badge/LinkedIn-Samah%20Boudallaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:samahboudallaa@gmail.com"><img src="https://img.shields.io/badge/E--mail-samahboudallaa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-<img src="https://img.shields.io/badge/Localisation-Maroc-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Maroc"/>
+<b>Data Science student · Data Engineering, Machine Learning and AI</b><br/>
+<sub>Morocco · open to internships in data engineering, machine learning and AI</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/statut-ouverte%20aux%20stages-3fb950?style=flat-square&logo=statuspage&logoColor=white" alt="Statut"/>
-<img src="https://img.shields.io/badge/focus-data%20engineering%20%C2%B7%20ML%20%C2%B7%20IA-a371f7?style=flat-square" alt="Focus"/>
-<img src="https://komarev.com/ghpvc/?username=Samah-boudallaa&label=visites&color=1f6feb&style=flat-square" alt="Visites"/>
+<a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-samah--boudallaa.github.io-21262d?style=flat-square&logo=githubpages&logoColor=a371f7" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/samah-boudallaa-92409a329"><img src="https://img.shields.io/badge/LinkedIn-Samah%20Boudallaa-21262d?style=flat-square&logo=linkedin&logoColor=a371f7" alt="LinkedIn"/></a>
+<a href="mailto:samahboudallaa@gmail.com"><img src="https://img.shields.io/badge/E--mail-samahboudallaa%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=a371f7" alt="E-mail"/></a>
+<a href="https://github.com/Samah-boudallaa"><img src="https://img.shields.io/badge/GitHub-Samah--boudallaa-21262d?style=flat-square&logo=github&logoColor=a371f7" alt="GitHub"/></a>
+
+<br/><br/>
+
+<sub><a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#architectures">Architectures</a> &nbsp;·&nbsp; <a href="#technical-stack">Stack</a> &nbsp;·&nbsp; <a href="#github-activity">Activity</a> &nbsp;·&nbsp; <a href="#background">Background</a> &nbsp;·&nbsp; <a href="#contact">Contact</a></sub>
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="./marquee.svg" alt="Technologies" width="100%"/>
-</div>
+## In 30 seconds
 
-<br/>
+Bachelor's student in **Data Science** (Sciences des Données) at EST Kelâa des Sraghna (Cadi Ayyad University), after a **DUT in Data Engineering** (Ingénierie des Données). I am interested in **data engineering**, **machine learning**, **AI** and the **industrialisation of data pipelines**.
 
-<div align="center">
-
-### Navigation
-
-| [Projets](#projets) | [Architectures](#architectures) | [Stack](#stack-technique) | [Activité](#activité-github) | [Parcours](#parcours) | [Contact](#me-contacter) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
-</div>
-
-<br/>
-
-## En 30 secondes
-
-```python
-class Samah:
-    nom        = "Samah Boudallaa"
-    formation  = "Bachelor Sciences des Données · Université Cadi Ayyad"
-    ville      = "Maroc"
-    specialite = ["Data Engineering", "Machine Learning", "IA"]
-    je_crois_a = ["pipelines fiables", "qualité logicielle", "industrialisation"]
-    en_ce_moment = "j'explore MLflow, la dérive des modèles et Kubernetes"
-    cherche    = "stage en data engineering / ML / IA"
-
-    def pitch(self):
-        return "De la donnée brute au modèle exposé par une API, avec tests, conteneurs et suivi."
-```
+> From raw data to a model served through an API, with tests, containers and monitoring.
 
 <table>
 <tr>
 <td valign="top" width="33%">
-<sub>🎯 <b>JE CHERCHE</b></sub><br/>
-Un stage en <b>data engineering</b>, <b>machine learning</b> ou <b>IA</b>, où la donnée finit réellement en production.
+<b>What I am looking for</b><br/>
+An internship in <b>data engineering</b>, <b>machine learning</b> or <b>AI</b>, where data actually ends up in production.
 </td>
 <td valign="top" width="33%">
-<sub>⚙️ <b>J'APPORTE</b></sub><br/>
-Des pipelines streaming et batch, des API, des tests, de la CI et des conteneurs : le tout <b>reproductible</b>.
+<b>What I bring</b><br/>
+Streaming and batch pipelines, APIs, tests, CI and containers: all of it <b>reproducible</b>.
 </td>
 <td valign="top" width="33%">
-<sub>🧪 <b>À VÉRIFIER</b></sub><br/>
-Chaque projet ci-dessous a son dépôt public, son schéma d'architecture et des chiffres issus de tests réels.
+<b>Verify it yourself</b><br/>
+Every project below has a public repository, an architecture diagram and figures that come from local tests.
 </td>
 </tr>
 </table>
@@ -72,112 +50,128 @@ Chaque projet ci-dessous a son dépôt public, son schéma d'architecture et des
 <br/>
 
 <div align="center">
-<img src="./pipeline.svg" alt="Flux de données de bout en bout" width="100%"/>
+<img src="./pipeline.svg" alt="End-to-end data flow" width="100%"/>
 </div>
 
 <br/>
 
-## Projets
+## Projects
 
 <table>
 <tr>
+<td valign="top" width="46%">
 
-<td valign="top" width="33%">
-
-<h3>01 · Smart Data Pipeline</h3>
-<b>Pipeline IoT temps réel avec traitement adaptatif et supervision</b>
-<br/><sub>Projet de fin d'études du DUT · équipe de trois · 2026</sub>
+<h3>Smart Data Pipeline</h3>
+<b>Real-time IoT pipeline with adaptive processing and monitoring</b>
+<br/><sub>DUT final-year project · team of three · 2026</sub>
 
 <br/><br/>
-<b>Résultats clés (tests locaux)</b>
-<ul>
-<li>Environ <b>132 000</b> mesures simulées dans le flux</li>
-<li><b>8</b> métriques de supervision Prometheus</li>
-<li><b>6</b> conteneurs orchestrés avec Docker Compose</li>
-<li>Latence inférieure à <b>500 ms</b> par message</li>
-<li>Plus de <b>28 400</b> messages traités sans perte</li>
-</ul>
-
-<b>Stack</b><br/>
 <code>Python</code> <code>Kafka</code> <code>Spark</code> <code>Pandas</code> <code>Isolation Forest</code> <code>Prometheus</code> <code>Grafana</code> <code>Docker Compose</code>
 
 <br/><br/>
-<a href="https://github.com/Samah-boudallaa/smart-data-pipeline-pfe"><img src="https://img.shields.io/badge/Voir%20le%20d%C3%A9p%C3%B4t-smart--data--pipeline--pfe-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt Smart Data Pipeline"/></a>
+<b><a href="https://github.com/Samah-boudallaa/smart-data-pipeline-pfe">View the repository</a></b>
 <br/>
-<img src="https://img.shields.io/github/last-commit/Samah-boudallaa/smart-data-pipeline-pfe?style=flat-square&label=dernier%20commit&color=1f6feb" alt="Dernier commit"/>
+<img src="https://img.shields.io/github/last-commit/Samah-boudallaa/smart-data-pipeline-pfe?style=flat-square&label=last%20commit&color=7c3aed&labelColor=21262d" alt="last commit"/>
 
 </td>
+<td valign="top" width="54%">
 
-<td valign="top" width="33%">
-
-<h3>02 · NexaDecide</h3>
-<b>Plateforme d'aide à la décision intégrant data engineering et IA</b>
-<br/><sub>Stage chez D-Business Consulting · avril – juin 2026</sub>
-
-<br/><br/>
-<b>Résultats clés (conditions des tests)</b>
+<b>Key results (local tests)</b>
 <ul>
-<li><b>443 154</b> enregistrements traités par le pipeline ETL</li>
-<li>Cache lu en <b>moins de 100 ms</b> (contre 15 à 30 s en direct sur SQL Server)</li>
-<li><b>9</b> endpoints FastAPI et <b>10</b> pages Streamlit</li>
-<li>Prévision du CA : <b>MAPE de 8,9 %</b> (XGBoost, données simulées)</li>
-<li>Recommandations Mistral AI, LangChain et RAG</li>
-<li>Intégration Odoo CRM via XML-RPC (instance de test)</li>
+<li>About <b>132,000</b> simulated measurements in the stream</li>
+<li><b>8</b> Prometheus monitoring metrics</li>
+<li><b>6</b> containers orchestrated with Docker Compose</li>
+<li>Latency under <b>500 ms</b> per message</li>
+<li>More than <b>28,400</b> messages processed without loss</li>
 </ul>
 
-<b>Stack</b><br/>
-<code>Python</code> <code>FastAPI</code> <code>Streamlit</code> <code>DuckDB</code> <code>Parquet</code> <code>XGBoost</code> <code>LangChain</code> <code>Mistral AI</code>
-
-<br/><br/>
-<a href="https://github.com/Samah-boudallaa/nexadecide-decision-system"><img src="https://img.shields.io/badge/Voir%20le%20d%C3%A9p%C3%B4t-nexadecide--decision--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt NexaDecide"/></a>
-<br/>
-<img src="https://img.shields.io/github/last-commit/Samah-boudallaa/nexadecide-decision-system?style=flat-square&label=dernier%20commit&color=a371f7" alt="Dernier commit"/>
-
 </td>
-
-<td valign="top" width="33%">
-
-<h3>03 · GraphGen</h3>
-<b>Application web d'analyse exploratoire de fichiers CSV et Excel</b>
-<br/><sub>Projet en binôme avec <a href="https://github.com/Chaymae-El-Bahloul">Chaymae El Bahloul</a></sub>
-
-<br/><br/>
-<b>Résultats clés</b>
-<ul>
-<li>Visualisations interactives avec <b>Plotly</b></li>
-<li><b>12</b> tests pytest</li>
-<li>Linting avec ruff</li>
-<li>Intégration continue via GitHub Actions</li>
-<li>Conteneur Docker <b>non-root</b> avec healthcheck</li>
-</ul>
-
-<b>Stack</b><br/>
-<code>Python</code> <code>Flask</code> <code>Pandas</code> <code>Plotly</code> <code>pytest</code> <code>ruff</code> <code>GitHub Actions</code> <code>Docker</code>
-
-<br/><br/>
-<a href="https://github.com/Samah-boudallaa/GraphGen"><img src="https://img.shields.io/badge/Voir%20le%20d%C3%A9p%C3%B4t-GraphGen-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt GraphGen"/></a>
-<br/>
-<a href="https://github.com/Samah-boudallaa/GraphGen/actions/workflows/ci.yml"><img src="https://github.com/Samah-boudallaa/GraphGen/actions/workflows/ci.yml/badge.svg" alt="Statut de la CI GraphGen"/></a>
-
-</td>
-
 </tr>
 </table>
 
-<sub><i>Note sur les résultats : les métriques chiffrées proviennent de tests locaux ou de données simulées. Elles ne constituent pas des garanties de performance en production.</i></sub>
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="46%">
+
+<h3>NexaDecide</h3>
+<b>Decision-support platform combining data engineering and AI</b>
+<br/><sub>Internship at D-Business Consulting · April – June 2026</sub>
+
+<br/><br/>
+<code>Python</code> <code>FastAPI</code> <code>Streamlit</code> <code>DuckDB</code> <code>Parquet</code> <code>XGBoost</code> <code>LangChain</code> <code>Mistral AI</code>
+
+<br/><br/>
+<b><a href="https://github.com/Samah-boudallaa/nexadecide-decision-system">View the repository</a></b>
+<br/>
+<img src="https://img.shields.io/github/last-commit/Samah-boudallaa/nexadecide-decision-system?style=flat-square&label=last%20commit&color=7c3aed&labelColor=21262d" alt="last commit"/>
+
+</td>
+<td valign="top" width="54%">
+
+<b>Key results (test conditions)</b>
+<ul>
+<li><b>443,154</b> records processed by the ETL pipeline</li>
+<li>Cache read in <b>under 100 ms</b> (versus 15 to 30 s directly on SQL Server)</li>
+<li><b>9</b> FastAPI endpoints and <b>10</b> Streamlit pages</li>
+<li>Revenue forecast: <b>8.9% MAPE</b> (XGBoost, simulated data)</li>
+<li>Recommendations with Mistral AI, LangChain and RAG</li>
+<li>Odoo CRM integration via XML-RPC (test instance)</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="46%">
+
+<h3>GraphGen</h3>
+<b>Web application for exploratory analysis of CSV and Excel files</b>
+<br/><sub>Pair project with <a href="https://github.com/Chaymae-El-Bahloul">Chaymae El Bahloul</a></sub>
+
+<br/><br/>
+<code>Python</code> <code>Flask</code> <code>Pandas</code> <code>Plotly</code> <code>pytest</code> <code>ruff</code> <code>GitHub Actions</code> <code>Docker</code>
+
+<br/><br/>
+<b><a href="https://github.com/Samah-boudallaa/GraphGen">View the repository</a></b>
+<br/>
+<a href="https://github.com/Samah-boudallaa/GraphGen/actions/workflows/ci.yml"><img src="https://github.com/Samah-boudallaa/GraphGen/actions/workflows/ci.yml/badge.svg" alt="GraphGen CI status"/></a>
+
+</td>
+<td valign="top" width="54%">
+
+<b>Key results</b>
+<ul>
+<li>Interactive visualizations with <b>Plotly</b></li>
+<li><b>12</b> pytest tests</li>
+<li>Linting with ruff</li>
+<li>Continuous integration via GitHub Actions</li>
+<li><b>Non-root</b> Docker container with healthcheck</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<sub><i>Note on results: the figures come from local tests or simulated data. They are not production performance guarantees.</i></sub>
 
 <br/>
 
 <details>
-<summary><b>Pourquoi ces projets ? Ce qu'ils montrent de ma façon de travailler</b></summary>
+<summary><b>Why these projects? What they show about how I work</b></summary>
 
 <br/>
 
-| Projet | Compétence démontrée | Preuve dans le dépôt |
+| Project | Skill demonstrated | Evidence in the repository |
 |---|---|---|
-| **Smart Data Pipeline** | Concevoir un flux temps réel observable | Kafka, métriques Prometheus, tableaux de bord Grafana, `docker-compose.yml` |
-| **NexaDecide** | Relier données, modèles et usages métier | ETL, cache DuckDB/Parquet, API FastAPI, prévision, RAG |
-| **GraphGen** | Livrer un logiciel propre et reproductible | Tests pytest, ruff, CI GitHub Actions, image Docker non-root |
+| **Smart Data Pipeline** | Designing an observable real-time flow | Kafka, Prometheus metrics, Grafana dashboards, `docker-compose.yml` |
+| **NexaDecide** | Connecting data, models and business use | ETL, DuckDB/Parquet cache, FastAPI API, forecasting, RAG |
+| **GraphGen** | Shipping clean, reproducible software | pytest tests, ruff, GitHub Actions CI, non-root Docker image |
 
 </details>
 
@@ -185,109 +179,112 @@ Chaque projet ci-dessous a son dépôt public, son schéma d'architecture et des
 
 ## Architectures
 
-> Cliquez sur un projet pour déplier son schéma.
+<sub>Click a project to expand its diagram.</sub>
 
 <details>
-<summary><b>01 · Smart Data Pipeline</b> — flux IoT temps réel, détection d'anomalies et supervision</summary>
+<summary><b>Smart Data Pipeline</b>, real-time IoT flow, anomaly detection and monitoring</summary>
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
 flowchart LR
-    A["Mesures IoT simulées"] --> B["Apache Kafka<br/>KRaft"]
-    B --> C["Moteur adaptatif<br/>Pandas / Spark"]
-    C --> D["Isolation Forest<br/>Détection d'anomalies"]
-    C --> E["Prometheus<br/>Métriques"]
-    E --> F["Grafana<br/>Supervision"]
-    D --> G["Résultats de détection"]
+    A["Simulated IoT measurements"] --> B["Apache Kafka<br/>KRaft"]
+    B --> C["Adaptive engine<br/>Pandas / Spark"]
+    C --> D["Isolation Forest<br/>Anomaly detection"]
+    C --> E["Prometheus<br/>Metrics"]
+    E --> F["Grafana<br/>Monitoring"]
+    D --> G["Detection results"]
 ```
 
 </details>
 
 <details>
-<summary><b>02 · NexaDecide</b> — de SQL Server à l'API, la prévision et le RAG</summary>
+<summary><b>NexaDecide</b>, from SQL Server to the API, forecasting and RAG</summary>
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
 flowchart TD
-    A["SQL Server"] --> B["Pipeline ETL"]
-    B --> C["DuckDB / Parquet<br/>Cache analytique"]
-    C --> D["API FastAPI"]
-    D --> E["Interface Streamlit"]
-    D --> F["Prévision du CA<br/>XGBoost"]
+    A["SQL Server"] --> B["ETL pipeline"]
+    B --> C["DuckDB / Parquet<br/>Analytical cache"]
+    C --> D["FastAPI API"]
+    D --> E["Streamlit interface"]
+    D --> F["Revenue forecast<br/>XGBoost"]
     D --> G["RAG<br/>LangChain / Mistral AI"]
-    H["Odoo CRM<br/>XML-RPC · instance de test"] <--> D
+    H["Odoo CRM<br/>XML-RPC · test instance"] <--> D
 ```
 
 </details>
 
 <details>
-<summary><b>03 · GraphGen</b> — analyse de fichiers, tests et CI/CD</summary>
+<summary><b>GraphGen</b>, file analysis, tests and CI/CD</summary>
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
 flowchart LR
-    A["Fichiers CSV / Excel"] --> B["Flask / Pandas"]
-    B --> C["Analyse des données"]
-    C --> D["Visualisations Plotly"]
-    B --> E["Tests pytest"]
+    A["CSV / Excel files"] --> B["Flask / Pandas"]
+    B --> C["Data analysis"]
+    C --> D["Plotly visualizations"]
+    B --> E["pytest tests"]
     E --> F["GitHub Actions"]
-    B --> G["Docker<br/>Utilisateur non-root"]
+    B --> G["Docker<br/>Non-root user"]
 ```
 
 </details>
 
 <br/>
 
-## Stack technique
+## Technical stack
 
-| Domaine | Technologies |
+| Area | Technologies |
 |---|---|
-| **Langages** | ![Python](https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1f6feb?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-1f6feb?style=flat-square&logo=r&logoColor=white) ![C](https://img.shields.io/badge/C-1f6feb?style=flat-square&logo=c&logoColor=white) |
-| **Data Engineering** | ![Kafka](https://img.shields.io/badge/Kafka-2E7D32?style=flat-square&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-2E7D32?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2E7D32?style=flat-square&logo=pandas&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-2E7D32?style=flat-square) ![DuckDB](https://img.shields.io/badge/DuckDB-2E7D32?style=flat-square&logo=duckdb&logoColor=white) ![Parquet](https://img.shields.io/badge/Parquet-2E7D32?style=flat-square&logo=apacheparquet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-2E7D32?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-2E7D32?style=flat-square&logo=mysql&logoColor=white) |
-| **Machine Learning & IA** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-6A1B9A?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-6A1B9A?style=flat-square) ![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-6A1B9A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-6A1B9A?style=flat-square&logo=langchain&logoColor=white) ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-6A1B9A?style=flat-square&logo=mistralai&logoColor=white) |
-| **API & applications** | ![FastAPI](https://img.shields.io/badge/FastAPI-E65100?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-E65100?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST-E65100?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-E65100?style=flat-square&logo=streamlit&logoColor=white) |
-| **Qualité & exploitation** | ![Docker](https://img.shields.io/badge/Docker-37474F?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-37474F?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-37474F?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-37474F?style=flat-square&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-37474F?style=flat-square&logo=pytest&logoColor=white) ![ruff](https://img.shields.io/badge/ruff-37474F?style=flat-square&logo=ruff&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-37474F?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-37474F?style=flat-square&logo=grafana&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=a371f7) ![SQL](https://img.shields.io/badge/SQL-21262d?style=flat-square&logo=postgresql&logoColor=a371f7) ![R](https://img.shields.io/badge/R-21262d?style=flat-square&logo=r&logoColor=a371f7) ![C](https://img.shields.io/badge/C-21262d?style=flat-square&logo=c&logoColor=a371f7) |
+| **Data Engineering** | ![Kafka](https://img.shields.io/badge/Kafka-21262d?style=flat-square&logo=apachekafka&logoColor=a371f7) ![Spark](https://img.shields.io/badge/Spark-21262d?style=flat-square&logo=apachespark&logoColor=a371f7) ![Pandas](https://img.shields.io/badge/Pandas-21262d?style=flat-square&logo=pandas&logoColor=a371f7) ![ETL](https://img.shields.io/badge/ETL-21262d?style=flat-square) ![DuckDB](https://img.shields.io/badge/DuckDB-21262d?style=flat-square&logo=duckdb&logoColor=a371f7) ![Parquet](https://img.shields.io/badge/Parquet-21262d?style=flat-square&logo=apacheparquet&logoColor=a371f7) ![SQL Server](https://img.shields.io/badge/SQL%20Server-21262d?style=flat-square&logo=microsoftsqlserver&logoColor=a371f7) ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=a371f7) |
+| **Machine Learning and AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-21262d?style=flat-square&logo=scikitlearn&logoColor=a371f7) ![XGBoost](https://img.shields.io/badge/XGBoost-21262d?style=flat-square) ![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-21262d?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-21262d?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-21262d?style=flat-square&logo=langchain&logoColor=a371f7) ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-21262d?style=flat-square&logo=mistralai&logoColor=a371f7) |
+| **APIs and applications** | ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=a371f7) ![Flask](https://img.shields.io/badge/Flask-21262d?style=flat-square&logo=flask&logoColor=a371f7) ![REST](https://img.shields.io/badge/REST-21262d?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-21262d?style=flat-square&logo=streamlit&logoColor=a371f7) |
+| **Quality and operations** | ![Docker](https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=a371f7) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-21262d?style=flat-square&logo=docker&logoColor=a371f7) ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=a371f7) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-21262d?style=flat-square&logo=githubactions&logoColor=a371f7) ![pytest](https://img.shields.io/badge/pytest-21262d?style=flat-square&logo=pytest&logoColor=a371f7) ![ruff](https://img.shields.io/badge/ruff-21262d?style=flat-square&logo=ruff&logoColor=a371f7) ![Prometheus](https://img.shields.io/badge/Prometheus-21262d?style=flat-square&logo=prometheus&logoColor=a371f7) ![Grafana](https://img.shields.io/badge/Grafana-21262d?style=flat-square&logo=grafana&logoColor=a371f7) |
 
-<sub><i>Technologies utilisées dans des contextes variés, avec des niveaux de pratique différents.</i></sub>
+<sub><i>Technologies used in varied contexts, with different levels of practice.</i></sub>
 
 <br/>
 
-## Activité GitHub
+## GitHub activity
 
-> Ce tableau de bord n'est pas un widget tiers : il est **généré chaque jour par mon propre pipeline** (script Python + GitHub Actions) à partir de l'API GitHub. Un pipeline de données, appliqué à mon propre profil.
+This dashboard is not a third-party widget: it is **generated every day by my own pipeline** (Python script + GitHub Actions) from the GitHub API. A data pipeline, applied to my own profile.
 
 <div align="center">
 
-<img src="./stats.svg" alt="Tableau de bord GitHub généré automatiquement" width="100%"/>
+<img src="./stats.svg" alt="Automatically generated GitHub dashboard" width="100%"/>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samah-boudallaa/Samah-boudallaa/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samah-boudallaa/Samah-boudallaa/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake qui mange mes contributions" src="https://raw.githubusercontent.com/Samah-boudallaa/Samah-boudallaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-<br/>
-
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Contributions en 3D" width="100%"/>
-
-<sub><i>Une part du travail de stage est dans des dépôts privés : selon le jeton utilisé, elle est comptée à part ou absente de ces graphiques.<br/>La page du profil GitHub, elle, additionne les contributions publiques et privées.</i></sub>
+<sub><i>Part of my internship work lives in private repositories: depending on the token used, it is counted separately or missing from these charts.<br/>The GitHub profile page itself adds up public and private contributions.</i></sub>
 
 </div>
 
 <details>
-<summary><b>Comment ce tableau de bord est produit</b></summary>
+<summary><b>3D view of contributions</b></summary>
 
 <br/>
 
-Rien n'est copié à la main : un workflow GitHub Actions interroge l'API GitHub (REST et GraphQL), un script Python calcule les indicateurs et écrit des fichiers SVG animés, puis le résultat est commité automatiquement. C'est un petit pipeline de données, appliqué à mon propre profil.
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub contributions in 3D" width="100%"/>
+<br/>
+<sub><i>Generated by GitHub Actions with the open-source github-profile-3d-contrib action.</i></sub>
+</div>
+
+</details>
+
+<details>
+<summary><b>How this dashboard is produced</b></summary>
+
+<br/>
+
+Nothing is copied by hand: a GitHub Actions workflow queries the GitHub API (REST and GraphQL), a Python script computes the indicators and writes animated SVG files, and the result is committed automatically.
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
 flowchart LR
-    A["GitHub Actions<br/>exécution planifiée"] --> B["Script Python<br/>API REST + GraphQL"]
-    B --> C["stats.svg<br/>tableau de bord animé"]
-    A --> D["Snake<br/>grille de contributions"]
-    A --> E["Vue 3D<br/>contributions"]
-    C --> F["README du profil"]
-    D --> F
+    A["GitHub Actions<br/>scheduled run"] --> B["Python script<br/>REST + GraphQL API"]
+    B --> C["stats.svg<br/>animated dashboard"]
+    A --> E["3D view<br/>contributions"]
+    C --> F["Profile README"]
     E --> F
 ```
 
@@ -295,68 +292,61 @@ flowchart LR
 
 <br/>
 
-## Parcours
+## Background
 
-```mermaid
-timeline
-    title Mon parcours
-    2024 : Baccalauréat scientifique (Mention Très Bien)
-         : Entrée au DUT Ingénierie des Données · EST Kelâa des Sraghna
-    2025 : Stage développement d'applications (été)
-    2026 : PFE Smart Data Pipeline
-         : Stage data engineering et IA · D-Business Consulting (avril – juin)
-         : Stage data et BI (juin – août)
-         : Bachelor Sciences des Données · Université Cadi Ayyad
-```
+| Period | Title | Details |
+|---|---|---|
+| **2026 – present** | **Bachelor's in Data Science** | EST Kelâa des Sraghna (Cadi Ayyad University) |
+| **2024 – 2026** | **DUT in Data Engineering** | EST Kelâa des Sraghna |
+| **2025 – 2026** | **Three internships** | Application development (summer 2025) · Data engineering and AI (April – June 2026) · Data and BI (June – August 2026) |
+| **2024** | **Scientific Baccalaureate** | Highest honours (Mention Très Bien) |
 
 <details>
-<summary><b>Version tableau</b></summary>
+<summary><b>View the timeline</b></summary>
 
-| Période | Intitulé | Détail |
-|---|---|---|
-| **2026 – en cours** | **Bachelor Sciences des Données** | EST Kelâa des Sraghna (Université Cadi Ayyad) |
-| **2024 – 2026** | **DUT Ingénierie des Données** | EST Kelâa des Sraghna |
-| **2025 – 2026** | **Trois stages** | Développement d'applications (été 2025) · Data engineering et IA (avril – juin 2026) · Data et BI (juin – août 2026) |
-| **2024** | **Baccalauréat scientifique** | Mention Très Bien |
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
+timeline
+    title My path
+    2024 : Scientific Baccalaureate (highest honours)
+         : Started the DUT in Data Engineering · EST Kelâa des Sraghna
+    2025 : Application development internship (summer)
+    2026 : Final-year project: Smart Data Pipeline
+         : Data engineering and AI internship · D-Business Consulting (April – June)
+         : Data and BI internship (June – August)
+         : Bachelor's in Data Science · Cadi Ayyad University
+```
 
 </details>
 
 <br/>
 
-<a name="me-contacter"></a>
+## Currently exploring
+
+<sub>Topics I am actively learning, not yet practised in production.</sub>
+
+- Experiment tracking and model versioning with **MLflow**
+- Data and model drift detection
+- **CI/CD** applied to machine learning
+- **Kubernetes**, Linux and Bash
+
+<br/>
+
+## Contact
+
+Open to internships and opportunities in data engineering, machine learning and AI.
 
 <table>
-<tr>
-
-<td valign="top" width="50%">
-
-<h3>En cours d'exploration</h3>
-<sub>Sujets que j'apprends activement, pas encore pratiqués en production.</sub>
-<ul>
-<li>Suivi d'expériences et versioning des modèles avec <b>MLflow</b></li>
-<li>Détection de dérive des données et des modèles</li>
-<li><b>CI/CD</b> appliqué au machine learning</li>
-<li><b>Kubernetes</b>, Linux et Bash</li>
-</ul>
-
-</td>
-
-<td valign="top" width="50%">
-
-<h3>Me contacter</h3>
-<sub>Ouverte aux stages et aux opportunités en data engineering, machine learning et IA.</sub>
-<br/><br/>
-<a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/samah-boudallaa-92409a329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:samahboudallaa@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-
-</td>
-
-</tr>
+<tr><td><b>Portfolio</b></td><td><a href="https://samah-boudallaa.github.io/">samah-boudallaa.github.io</a></td></tr>
+<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/samah-boudallaa-92409a329">Samah Boudallaa</a></td></tr>
+<tr><td><b>E-mail</b></td><td><a href="mailto:samahboudallaa@gmail.com">samahboudallaa@gmail.com</a></td></tr>
+<tr><td><b>GitHub</b></td><td><a href="https://github.com/Samah-boudallaa">Samah-boudallaa</a></td></tr>
 </table>
 
+<br/>
+
 <details>
-<summary><b>Easter egg</b></summary>
+<summary><sub>docker compose up -d</sub></summary>
 
 <br/>
 
@@ -368,13 +358,25 @@ $ docker compose up -d
  Container anomaly-ml    Started
  Container prometheus    Started
  Container grafana       Started
- Container samah         Started   # recrutez-moi
+ Container samah         Started   # hire me
 ```
 
 </details>
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1f6feb&height=120&section=footer&text=Merci%20pour%20votre%20visite&fontSize=22&fontColor=ffffff&fontAlignY=45&animation=twinkling" alt="Merci pour votre visite" width="100%"/>
+<img src="./divider.svg" alt="" width="100%"/>
+
+<br/>
+
+Thanks for visiting. A question, a project, an internship: get in touch.
+
+<sub><a href="https://samah-boudallaa.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/samah-boudallaa-92409a329">LinkedIn</a> · <a href="mailto:samahboudallaa@gmail.com">E-mail</a> · <a href="https://github.com/Samah-boudallaa">GitHub</a></sub>
+
+<br/>
+
+<sub><b>EN</b> · <a href="./README.fr.md" title="Lire en français">FR</a></sub>
 
 </div>
