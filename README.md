@@ -14,7 +14,10 @@
 <img src="https://komarev.com/ghpvc/?username=Samah-boudallaa&label=Profile%20views&color=7c3aed&labelColor=21262d&style=flat-square" alt="Profile views counter"/>
 <img src="https://img.shields.io/github/followers/Samah-boudallaa?style=flat-square&label=Followers&color=7c3aed&labelColor=21262d" alt="GitHub followers"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20internships-21262d?style=flat-square&labelColor=21262d&color=2dd4bf" alt="Status: open to internships"/>
-<a href="https://github.com/Samah-boudallaa/Samah-boudallaa/releases/latest"><img src="https://img.shields.io/github/downloads/Samah-boudallaa/Samah-boudallaa/total?style=flat-square&label=CV%20downloads&color=7c3aed&labelColor=21262d" alt="CV downloads"/></a>
+
+<a href="https://github.com/Samah-boudallaa/Samah-boudallaa/releases/download/cv-v1.0/CV%20Samah_Boudallaa.pdf">
+  <img src="https://img.shields.io/badge/View_CV-Download-7c3aed?style=flat-square&labelColor=21262d&logo=adobeacrobatreader&logoColor=white" alt="View and download CV"/>
+</a>
 
 <br/><br/>
 
