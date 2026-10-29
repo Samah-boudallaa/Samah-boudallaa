@@ -16,9 +16,8 @@
 <img src="https://img.shields.io/badge/Statut-Disponible%20pour%20un%20stage-21262d?style=flat-square&labelColor=21262d&color=2dd4bf" alt="Statut : disponible pour un stage"/>
 
 <a href="https://github.com/Samah-boudallaa/Samah-boudallaa/releases/download/cv-v1.0/CV_SAMAH_BOUDALLAA_FR.pdf">
-  <img src="https://img.shields.io/badge/Voir_mon_CV-T%C3%A9l%C3%A9charger-7c3aed?style=flat-square&labelColor=21262d&logo=adobeacrobatreader&logoColor=white" alt="Voir et télécharger mon CV"/>
+  <img src="https://img.shields.io/badge/Voir_mon_CV-T%C3%A9l%C3%A9charger-7c3aed?style=flat-square&labelColor=21262d" alt="Voir et télécharger mon CV"/>
 </a>
-
 <br/><br/>
 
 <sub><a href="#projets">Projets</a> &nbsp;·&nbsp; <a href="#architectures">Architectures</a> &nbsp;·&nbsp; <a href="#stack-technique">Stack</a> &nbsp;·&nbsp; <a href="#activité-github">Activité</a> &nbsp;·&nbsp; <a href="#parcours">Parcours</a> &nbsp;·&nbsp; <a href="#contact">Contact</a></sub>
