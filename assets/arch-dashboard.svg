@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1030 330" width="1030" height="330" role="img" aria-labelledby="t d">
+<title id="t">Dashboard generation pipeline</title>
+<desc id="d">A scheduled GitHub Actions run starts a Python script using the REST and GraphQL APIs, which writes stats.svg. A 3D contributions view is generated in the same run. Both are committed to the profile README.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#171127"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e1836"/><stop offset="1" stop-color="#14111f"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0" r="0.8"><stop offset="0" stop-color="#7c3aed" stop-opacity=".30"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9 z" fill="#a371f7"/></marker>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a371f7" opacity=".12"/></pattern>
+<style>
+text{font-family:-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.k{font-size:11px;font-weight:700;letter-spacing:1.6px;fill:#a371f7}
+.t{font-size:19px;font-weight:700;fill:#f0f6fc}
+.s{font-size:13px;fill:#9aa4b2}
+.h{font-size:12px;font-weight:600;letter-spacing:1.8px;fill:#6e7681}
+.l{font-size:12px;fill:#c4b5fd;font-style:italic}
+.f{fill:none;stroke:#a371f7;stroke-width:2;stroke-dasharray:6 6;animation:d 1.4s linear infinite}
+@keyframes d{to{stroke-dashoffset:-12}}
+@media (prefers-reduced-motion:reduce){.f{animation:none}}
+</style>
+</defs>
+<rect width="1030" height="330" rx="20" fill="url(#bg)"/>
+<rect width="1030" height="330" rx="20" fill="url(#dots)"/>
+<rect width="1030" height="330" rx="20" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="1029" height="329" rx="19.5" fill="none" stroke="#2d2547"/>
+<text x="40" y="38" class="h">HOW THE DASHBOARD IS PRODUCED</text>
+
+<g transform="translate(40,60)"><rect width="200" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#fbbf24"/><text x="16" y="30" class="k" style="fill:#fbbf24">TRIGGER</text><text x="16" y="56" class="t">GitHub Actions</text><text x="16" y="78" class="s">scheduled run</text></g>
+<g transform="translate(290,60)"><rect width="200" height="100" rx="14" fill="url(#card)" stroke="#a371f7" stroke-opacity=".6"/><rect x="16" width="40" height="3" rx="1.5" fill="#a371f7"/><text x="16" y="30" class="k">SCRIPT</text><text x="16" y="56" class="t">Python</text><text x="16" y="78" class="s">REST + GraphQL APIs</text></g>
+<g transform="translate(540,60)"><rect width="200" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#f0abfc"/><text x="16" y="30" class="k" style="fill:#f0abfc">OUTPUT</text><text x="16" y="56" class="t">stats.svg</text><text x="16" y="78" class="s">animated dashboard</text></g>
+<g transform="translate(790,60)"><rect width="200" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#2dd4bf"/><text x="16" y="30" class="k" style="fill:#2dd4bf">PROFILE</text><text x="16" y="56" class="t">README.md</text><text x="16" y="78" class="s">committed automatically</text></g>
+<path class="f" d="M242 110 H284" marker-end="url(#ar)"/>
+<path class="f" d="M492 110 H534" marker-end="url(#ar)"/>
+<path class="f" d="M742 110 H784" marker-end="url(#ar)"/>
+
+<g transform="translate(540,210)"><rect width="200" height="90" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#a371f7"/><text x="16" y="28" class="k">SAME RUN</text><text x="16" y="52" class="t">3D contributions</text><text x="16" y="72" class="s">profile-3d-contrib</text></g>
+<path class="f" d="M140 162 V255 H534" marker-end="url(#ar)"/>
+<path class="f" d="M742 255 H890 V166" marker-end="url(#ar)"/>
+</svg>

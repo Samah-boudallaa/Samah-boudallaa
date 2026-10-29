@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 36" width="124" height="36" role="img" aria-label="English (current language)">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#a371f7"/></linearGradient><style>text{font-family:-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif}</style></defs>
+<rect x="3" y="3" width="118" height="30" rx="15" fill="url(#g)"/>
+<text x="62" y="23" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">EN · English</text>
+</svg>

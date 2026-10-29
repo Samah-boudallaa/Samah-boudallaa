@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 36" width="124" height="36" role="img" aria-label="Lire en français">
+<defs><style>text{font-family:-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif}</style></defs>
+<rect x="3.5" y="3.5" width="117" height="29" rx="14.5" fill="#0d1117" stroke="#3b2f63"/>
+<text x="62" y="23" font-size="13" font-weight="600" fill="#a371f7" text-anchor="middle">FR · Français</text>
+</svg>
