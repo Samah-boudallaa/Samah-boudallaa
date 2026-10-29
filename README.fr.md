@@ -14,9 +14,9 @@
 <img src="https://komarev.com/ghpvc/?username=Samah-boudallaa&label=Visites%20du%20profil&color=7c3aed&labelColor=21262d&style=flat-square" alt="Compteur de visites du profil"/>
 <img src="https://img.shields.io/github/followers/Samah-boudallaa?style=flat-square&label=Abonn%C3%A9s&color=7c3aed&labelColor=21262d" alt="Abonnés GitHub"/>
 <img src="https://img.shields.io/badge/Statut-Disponible%20pour%20un%20stage-21262d?style=flat-square&labelColor=21262d&color=2dd4bf" alt="Statut : disponible pour un stage"/>
-<!-- Téléchargements du CV (à activer une fois le CV ajouté à une GitHub Release) :
-<a href="https://github.com/Samah-boudallaa/Samah-boudallaa/releases/latest"><img src="https://img.shields.io/github/downloads/Samah-boudallaa/Samah-boudallaa/total?style=flat-square&label=T%C3%A9l%C3%A9chargements%20du%20CV&color=7c3aed&labelColor=21262d" alt="Téléchargements du CV"/></a>
--->
+<a href="https://github.com/Samah-boudallaa/Samah-boudallaa/releases/download/cv-v1.0/CV%20Samah_Boudallaa.pdf">
+  <img src="https://img.shields.io/badge/View_CV-Download-7c3aed?style=flat-square&labelColor=21262d&logo=adobeacrobatreader&logoColor=white" alt="View and download CV"/>
+</a>
 
 <br/><br/>
 
