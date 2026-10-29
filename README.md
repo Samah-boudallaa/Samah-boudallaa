@@ -1,4 +1,4 @@
-<p align="right"><sub><b>EN</b> · <a href="./README.fr.md" title="Lire en français">FR</a></sub></p>
+<p align="right"><a href="./README.md"><img src="./assets/lang-en-on.svg" alt="English (current language)" height="36"/></a><a href="./README.fr.md"><img src="./assets/lang-fr-off.svg" alt="Lire en français" height="36"/></a></p>
 
 <img src="./hero-en.svg" alt="Samah Boudallaa, Data Engineering, Machine Learning and AI" width="100%"/>
 
@@ -11,10 +11,12 @@
 
 <br/><br/>
 
-<a href="https://samah-boudallaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-samah--boudallaa.github.io-21262d?style=flat-square&logo=githubpages&logoColor=a371f7" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/samah-boudallaa-92409a329"><img src="https://img.shields.io/badge/LinkedIn-Samah%20Boudallaa-21262d?style=flat-square&logo=linkedin&logoColor=a371f7" alt="LinkedIn"/></a>
-<a href="mailto:samahboudallaa@gmail.com"><img src="https://img.shields.io/badge/E--mail-samahboudallaa%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=a371f7" alt="E-mail"/></a>
-<a href="https://github.com/Samah-boudallaa"><img src="https://img.shields.io/badge/GitHub-Samah--boudallaa-21262d?style=flat-square&logo=github&logoColor=a371f7" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=Samah-boudallaa&label=Profile%20views&color=7c3aed&labelColor=21262d&style=flat-square" alt="Profile views counter"/>
+<img src="https://img.shields.io/github/followers/Samah-boudallaa?style=flat-square&label=Followers&color=7c3aed&labelColor=21262d" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20internships-21262d?style=flat-square&labelColor=21262d&color=2dd4bf" alt="Status: open to internships"/>
+<!-- CV downloads (enable once the CV is attached to a GitHub Release):
+<a href="https://github.com/Samah-boudallaa/Samah-boudallaa/releases/latest"><img src="https://img.shields.io/github/downloads/Samah-boudallaa/Samah-boudallaa/total?style=flat-square&label=CV%20downloads&color=7c3aed&labelColor=21262d" alt="CV downloads"/></a>
+-->
 
 <br/><br/>
 
@@ -179,56 +181,31 @@ Every project below has a public repository, an architecture diagram and figures
 
 ## Architectures
 
-<sub>Click a project to expand its diagram.</sub>
+<sub>Each diagram has a text version underneath, for screen readers and low-bandwidth viewing.</sub>
 
-<details>
-<summary><b>Smart Data Pipeline</b>, real-time IoT flow, anomaly detection and monitoring</summary>
+### Smart Data Pipeline
 
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
-flowchart LR
-    A["Simulated IoT measurements"] --> B["Apache Kafka<br/>KRaft"]
-    B --> C["Adaptive engine<br/>Pandas / Spark"]
-    C --> D["Isolation Forest<br/>Anomaly detection"]
-    C --> E["Prometheus<br/>Metrics"]
-    E --> F["Grafana<br/>Monitoring"]
-    D --> G["Detection results"]
-```
+<div align="center">
+<img src="./assets/arch-smart-pipeline.svg" alt="Smart Data Pipeline architecture: simulated IoT data, Kafka, adaptive Pandas and Spark engine, Isolation Forest anomaly detection and Prometheus metrics, detection results and Grafana dashboards." width="100%"/>
+</div>
 
-</details>
+<sub><b>Text version:</b> simulated IoT measurements → Apache Kafka (KRaft) → adaptive engine (Pandas / Spark) → Isolation Forest (anomaly detection) → detection results; the engine also exposes Prometheus metrics → Grafana monitoring.</sub>
 
-<details>
-<summary><b>NexaDecide</b>, from SQL Server to the API, forecasting and RAG</summary>
+### NexaDecide
 
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
-flowchart TD
-    A["SQL Server"] --> B["ETL pipeline"]
-    B --> C["DuckDB / Parquet<br/>Analytical cache"]
-    C --> D["FastAPI API"]
-    D --> E["Streamlit interface"]
-    D --> F["Revenue forecast<br/>XGBoost"]
-    D --> G["RAG<br/>LangChain / Mistral AI"]
-    H["Odoo CRM<br/>XML-RPC · test instance"] <--> D
-```
+<div align="center">
+<img src="./assets/arch-nexadecide.svg" alt="NexaDecide architecture: SQL Server, ETL pipeline, DuckDB and Parquet cache, FastAPI, then XGBoost forecast, RAG assistant and Streamlit interface, with an Odoo CRM test instance connected to the API." width="100%"/>
+</div>
 
-</details>
+<sub><b>Text version:</b> SQL Server → ETL pipeline → DuckDB / Parquet analytical cache → FastAPI API → (XGBoost revenue forecast · RAG with LangChain and Mistral AI · Streamlit interface). The API and an Odoo CRM test instance exchange data both ways over XML-RPC.</sub>
 
-<details>
-<summary><b>GraphGen</b>, file analysis, tests and CI/CD</summary>
+### GraphGen
 
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
-flowchart LR
-    A["CSV / Excel files"] --> B["Flask / Pandas"]
-    B --> C["Data analysis"]
-    C --> D["Plotly visualizations"]
-    B --> E["pytest tests"]
-    E --> F["GitHub Actions"]
-    B --> G["Docker<br/>Non-root user"]
-```
+<div align="center">
+<img src="./assets/arch-graphgen.svg" alt="GraphGen architecture: CSV and Excel files, Flask and Pandas, data analysis, Plotly charts; plus Docker, pytest and ruff, and GitHub Actions for quality and delivery." width="100%"/>
+</div>
 
-</details>
+<sub><b>Text version:</b> CSV / Excel files → Flask + Pandas → data analysis → Plotly visualizations. Quality branch: Flask + Pandas → pytest and ruff → GitHub Actions; packaged in a non-root Docker image.</sub>
 
 <br/>
 
@@ -278,15 +255,11 @@ This dashboard is not a third-party widget: it is **generated every day by my ow
 
 Nothing is copied by hand: a GitHub Actions workflow queries the GitHub API (REST and GraphQL), a Python script computes the indicators and writes animated SVG files, and the result is committed automatically.
 
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1c1730","primaryTextColor":"#e6edf3","primaryBorderColor":"#7c3aed","lineColor":"#a371f7","secondaryColor":"#1c1730","tertiaryColor":"#0d1117","fontSize":"14px"}}}%%
-flowchart LR
-    A["GitHub Actions<br/>scheduled run"] --> B["Python script<br/>REST + GraphQL API"]
-    B --> C["stats.svg<br/>animated dashboard"]
-    A --> E["3D view<br/>contributions"]
-    C --> F["Profile README"]
-    E --> F
-```
+<div align="center">
+<img src="./assets/arch-dashboard.svg" alt="Dashboard generation: a scheduled GitHub Actions run starts a Python script using the REST and GraphQL APIs, which writes stats.svg; a 3D contributions view is generated too; both are committed to the profile README." width="100%"/>
+</div>
+
+<sub><b>Text version:</b> scheduled GitHub Actions run → Python script (REST + GraphQL) → animated stats.svg; the same run also generates the 3D contributions view; both end up in the profile README.</sub>
 
 </details>
 
@@ -334,14 +307,20 @@ timeline
 
 ## Contact
 
-Open to internships and opportunities in data engineering, machine learning and AI.
+<div align="center">
 
-<table>
-<tr><td><b>Portfolio</b></td><td><a href="https://samah-boudallaa.github.io/">samah-boudallaa.github.io</a></td></tr>
-<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/samah-boudallaa-92409a329">Samah Boudallaa</a></td></tr>
-<tr><td><b>E-mail</b></td><td><a href="mailto:samahboudallaa@gmail.com">samahboudallaa@gmail.com</a></td></tr>
-<tr><td><b>GitHub</b></td><td><a href="https://github.com/Samah-boudallaa">Samah-boudallaa</a></td></tr>
-</table>
+<b>Open to internships and opportunities in data engineering, machine learning and AI.</b><br/>
+<sub>The fastest way to reach me is e-mail or LinkedIn.</sub>
+
+<br/><br/>
+
+<a href="mailto:samahboudallaa@gmail.com?subject=Internship%20opportunity"><img src="./assets/contact-email.svg" alt="E-mail: samahboudallaa@gmail.com" width="49%"/></a>
+<a href="https://www.linkedin.com/in/samah-boudallaa-92409a329"><img src="./assets/contact-linkedin.svg" alt="LinkedIn: Samah Boudallaa" width="49%"/></a>
+<br/>
+<a href="https://samah-boudallaa.github.io/"><img src="./assets/contact-portfolio.svg" alt="Portfolio: samah-boudallaa.github.io" width="49%"/></a>
+<a href="https://github.com/Samah-boudallaa"><img src="./assets/contact-github.svg" alt="GitHub: Samah-boudallaa" width="49%"/></a>
+
+</div>
 
 <br/>
 
@@ -377,6 +356,6 @@ Thanks for visiting. A question, a project, an internship: get in touch.
 
 <br/>
 
-<sub><b>EN</b> · <a href="./README.fr.md" title="Lire en français">FR</a></sub>
+<a href="./README.md"><img src="./assets/lang-en-on.svg" alt="English (current language)" height="30"/></a><a href="./README.fr.md"><img src="./assets/lang-fr-off.svg" alt="Lire en français" height="30"/></a>
 
 </div>
