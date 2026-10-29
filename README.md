@@ -15,9 +15,10 @@
 <img src="https://img.shields.io/github/followers/Samah-boudallaa?style=flat-square&label=Followers&color=7c3aed&labelColor=21262d" alt="GitHub followers"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20internships-21262d?style=flat-square&labelColor=21262d&color=2dd4bf" alt="Status: open to internships"/>
 
-<a href="https://github.com/Samah-boudallaa/Samah-boudallaa/releases/download/cv-v1.0/CV%20Samah_Boudallaa.pdf">
+<a href="https://github.com/Samah-boudallaa/Samah-boudallaa/releases/download/cv-v1.0/CV_SAMAH_BOUDALLAA_EN.pdf">
   <img src="https://img.shields.io/badge/View_CV-Download-7c3aed?style=flat-square&labelColor=21262d&logo=adobeacrobatreader&logoColor=white" alt="View and download CV"/>
 </a>
+
 
 <br/><br/>
 
