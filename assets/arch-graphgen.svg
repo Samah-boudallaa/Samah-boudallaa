@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="t d">
+<title id="t">GraphGen architecture</title>
+<desc id="d">CSV and Excel files, Flask and Pandas, data analysis, Plotly charts. Quality branch: pytest and ruff, GitHub Actions, then a non-root Docker image.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#171127"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e1836"/><stop offset="1" stop-color="#14111f"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0" r="0.8"><stop offset="0" stop-color="#7c3aed" stop-opacity=".30"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9 z" fill="#a371f7"/></marker>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a371f7" opacity=".12"/></pattern>
+<style>
+text{font-family:-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.k{font-size:11px;font-weight:700;letter-spacing:1.6px;fill:#a371f7}
+.t{font-size:19px;font-weight:700;fill:#f0f6fc}
+.s{font-size:13px;fill:#9aa4b2}
+.h{font-size:12px;font-weight:600;letter-spacing:1.8px;fill:#6e7681}
+.l{font-size:12px;fill:#c4b5fd;font-style:italic}
+.f{fill:none;stroke:#a371f7;stroke-width:2;stroke-dasharray:6 6;animation:d 1.4s linear infinite}
+@keyframes d{to{stroke-dashoffset:-12}}
+@media (prefers-reduced-motion:reduce){.f{animation:none}}
+</style>
+</defs>
+<rect width="1200" height="370" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="370" rx="20" fill="url(#dots)"/>
+<rect width="1200" height="370" rx="20" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="1199" height="369" rx="19.5" fill="none" stroke="#2d2547"/>
+<text x="50" y="38" class="h">ARCHITECTURE · GRAPHGEN</text>
+
+<g transform="translate(50,60)"><rect width="230" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#2dd4bf"/><text x="16" y="30" class="k" style="fill:#2dd4bf">INPUT</text><text x="16" y="56" class="t">CSV · Excel files</text><text x="16" y="78" class="s">.csv and multi-sheet .xlsx</text></g>
+<g transform="translate(340,60)"><rect width="230" height="100" rx="14" fill="url(#card)" stroke="#a371f7" stroke-opacity=".6"/><rect x="16" width="40" height="3" rx="1.5" fill="#a371f7"/><text x="16" y="30" class="k">BACKEND</text><text x="16" y="56" class="t">Flask + Pandas</text><text x="16" y="78" class="s">loading · profiling</text></g>
+<g transform="translate(630,60)"><rect width="230" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#a371f7"/><text x="16" y="30" class="k">ANALYSIS</text><text x="16" y="56" class="t">Data analysis</text><text x="16" y="78" class="s">columns · correlations</text></g>
+<g transform="translate(920,60)"><rect width="230" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#f0abfc"/><text x="16" y="30" class="k" style="fill:#f0abfc">VISUALIZATION</text><text x="16" y="56" class="t">Plotly charts</text><text x="16" y="78" class="s">6 interactive types</text></g>
+<path class="f" d="M287 110 H334" marker-end="url(#ar)"/>
+<path class="f" d="M577 110 H624" marker-end="url(#ar)"/>
+<path class="f" d="M867 110 H914" marker-end="url(#ar)"/>
+
+<g transform="translate(340,230)"><rect width="230" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#fbbf24"/><text x="16" y="30" class="k" style="fill:#fbbf24">QUALITY</text><text x="16" y="56" class="t">pytest · ruff</text><text x="16" y="78" class="s">12 tests · linting</text></g>
+<g transform="translate(630,230)"><rect width="230" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#fbbf24"/><text x="16" y="30" class="k" style="fill:#fbbf24">CI</text><text x="16" y="56" class="t">GitHub Actions</text><text x="16" y="78" class="s">continuous integration</text></g>
+<g transform="translate(920,230)"><rect width="230" height="100" rx="14" fill="url(#card)" stroke="#2d2547"/><rect x="16" width="40" height="3" rx="1.5" fill="#2dd4bf"/><text x="16" y="30" class="k" style="fill:#2dd4bf">DELIVERY</text><text x="16" y="56" class="t">Docker image</text><text x="16" y="78" class="s">non-root · healthcheck</text></g>
+<path class="f" d="M455 162 V224" marker-end="url(#ar)"/>
+<text x="469" y="198" class="l">quality branch</text>
+<path class="f" d="M577 280 H624" marker-end="url(#ar)"/>
+<path class="f" d="M867 280 H914" marker-end="url(#ar)"/>
+</svg>
