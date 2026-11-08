@@ -76,7 +76,7 @@ Every project below has a public repository, an architecture diagram and figures
 <b><a href="https://github.com/Samah-boudallaa/smart-data-pipeline-pfe">View the repository</a></b>
 <br/>
 <img src="https://img.shields.io/github/last-commit/Samah-boudallaa/smart-data-pipeline-pfe?style=flat-square&label=last%20commit&color=7c3aed&labelColor=21262d" alt="last commit"/>
-
+ 
 </td>
 <td valign="top" width="54%">
 
@@ -110,7 +110,7 @@ Every project below has a public repository, an architecture diagram and figures
 <b><a href="https://github.com/Samah-boudallaa/nexadecide-decision-system">View the repository</a></b>
 <br/>
 <img src="https://img.shields.io/github/last-commit/Samah-boudallaa/nexadecide-decision-system?style=flat-square&label=last%20commit&color=7c3aed&labelColor=21262d" alt="last commit"/>
-
+      
 </td>
 <td valign="top" width="54%">
 
