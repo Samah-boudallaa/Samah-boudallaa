@@ -30,7 +30,7 @@
 
 ## In 30 seconds
 
-Bachelor's student in **Data Science** (Sciences des Données) at EST Kelâa des Sraghna (Cadi Ayyad University), after a **DUT in Data Engineering** (Ingénierie des Données). I am interested in **data engineering**, **machine learning**, **AI** and the **industrialisation of data pipelines**.
+Bachelor's student in **Data Science** (Sciences des Données) at Cadi Ayyad University, after a **DUT in Data Engineering** (Ingénierie des Données). I am interested in **data engineering**, **machine learning**, **AI** and the **industrialisation of data pipelines**.
 
 > From raw data to a model served through an API, with tests, containers and monitoring.
 
