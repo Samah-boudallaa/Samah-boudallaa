@@ -1,6 +1,8 @@
 <p align="right"><a href="./README.md"><img src="./assets/lang-en-on.svg" alt="English (current language)" height="36"/></a><a href="./README.fr.md"><img src="./assets/lang-fr-off.svg" alt="Lire en français" height="36"/></a></p>
 
-<img src="./hero-en.svg" alt="Samah Boudallaa, Data Engineering, Machine Learning and AI" width="100%"/>
+<p align="center">
+  <img src="hero-en.svg" alt="Samah Boudallaa – Data Engineering, Machine Learning and AI" width="100%"/>
+</p>
 
 <div align="center">
 
