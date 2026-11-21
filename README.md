@@ -56,6 +56,12 @@ Every project below has a public repository, an architecture diagram and figures
 <br/>
 
 <div align="center">
+<img src="./assets/numbers-en.svg" alt="Key figures: 443,154 records processed, cache read under 100 milliseconds, more than 28,400 messages without loss, 6 containers, 12 pytest tests, 3 internships. Local tests and simulated data." width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
 <img src="./pipeline.svg" alt="End-to-end data flow" width="100%"/>
 </div>
 
@@ -214,6 +220,12 @@ Every project below has a public repository, an architecture diagram and figures
 <br/>
 
 ## Technical stack
+
+<div align="center">
+<img src="./assets/lifecycle-en.svg" alt="From raw data to a healthy model: Data (Kafka, Spark, Pandas, DuckDB, Parquet, SQL Server), Train (Scikit-learn, XGBoost, Isolation Forest, RAG, LangChain), Package (FastAPI, Flask, Docker, Compose, Streamlit), Verify (pytest, ruff, GitHub Actions), Observe (Prometheus, Grafana); exploring: MLflow, drift detection, Kubernetes, Bash." width="100%"/>
+</div>
+
+<br/>
 
 | Area | Technologies |
 |---|---|
