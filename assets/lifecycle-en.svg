@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="MLOps lifecycle">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0716"/><stop offset="1" stop-color="#150b2e"/></linearGradient>
+<radialGradient id="g1" cx="0.15" cy="0.2" r="0.6"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.3"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.9" cy="0.9" r="0.5"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.14"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#a78bfa" stroke-opacity="0.06"/></pattern>
+<linearGradient id="name" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="0.6" stop-color="#e9d5ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+<linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0.9"/></linearGradient>
+<linearGradient id="out" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.2"/><stop offset="0.4" stop-color="#2dd4bf"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+<radialGradient id="core"><stop offset="0" stop-color="#ffffff"/><stop offset="0.35" stop-color="#2dd4bf"/><stop offset="1" stop-color="#7c3aed"/></radialGradient>
+<filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+</defs>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+<rect width="1200" height="340" rx="18" fill="url(#g1)"/>
+<rect width="1200" height="340" rx="18" fill="url(#g2)"/>
+<rect x="0.5" y="0.5" width="1199" height="339" rx="18" fill="none" stroke="#a78bfa" stroke-opacity="0.25"/>
+<text x="40" y="36" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="14" fill="#c4b5fd" fill-opacity="0.7">// from raw data to a model that stays healthy</text>
+<path d="M0,150 L900,150" stroke="#8b5cf6" stroke-opacity="0.4" stroke-width="2"/><path d="M900,150 L1100,150" stroke="#c4b5fd" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="4 6"/>
+<path d="M0,150 L900,150" stroke="#2dd4bf" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="6 14"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="1s" repeatCount="indefinite"/></path>
+<circle r="3.5" fill="#8b5cf6"><animateMotion dur="7s" begin="-0.00s" repeatCount="indefinite" path="M-20,150 L930,150"/><animate attributeName="fill" dur="7s" begin="-0.00s" repeatCount="indefinite" values="#2dd4bf;#2dd4bf" keyTimes="0;1"/><animate attributeName="r" dur="7s" begin="-0.00s" repeatCount="indefinite" values="3.5;3.5;3.5;3.5" keyTimes="0;1"/></circle>
+<circle r="3.5" fill="#8b5cf6"><animateMotion dur="7s" begin="-1.17s" repeatCount="indefinite" path="M-20,150 L930,150"/><animate attributeName="fill" dur="7s" begin="-1.17s" repeatCount="indefinite" values="#2dd4bf;#2dd4bf" keyTimes="0;1"/><animate attributeName="r" dur="7s" begin="-1.17s" repeatCount="indefinite" values="3.5;3.5;3.5;3.5" keyTimes="0;1"/></circle>
+<circle r="3.5" fill="#8b5cf6"><animateMotion dur="7s" begin="-2.33s" repeatCount="indefinite" path="M-20,150 L930,150"/><animate attributeName="fill" dur="7s" begin="-2.33s" repeatCount="indefinite" values="#2dd4bf;#2dd4bf" keyTimes="0;1"/><animate attributeName="r" dur="7s" begin="-2.33s" repeatCount="indefinite" values="3.5;3.5;3.5;3.5" keyTimes="0;1"/></circle>
+<circle r="3.5" fill="#8b5cf6"><animateMotion dur="7s" begin="-3.50s" repeatCount="indefinite" path="M-20,150 L930,150"/><animate attributeName="fill" dur="7s" begin="-3.50s" repeatCount="indefinite" values="#2dd4bf;#2dd4bf" keyTimes="0;1"/><animate attributeName="r" dur="7s" begin="-3.50s" repeatCount="indefinite" values="3.5;3.5;3.5;3.5" keyTimes="0;1"/></circle>
+<circle r="3.5" fill="#8b5cf6"><animateMotion dur="7s" begin="-4.67s" repeatCount="indefinite" path="M-20,150 L930,150"/><animate attributeName="fill" dur="7s" begin="-4.67s" repeatCount="indefinite" values="#2dd4bf;#2dd4bf" keyTimes="0;1"/><animate attributeName="r" dur="7s" begin="-4.67s" repeatCount="indefinite" values="3.5;3.5;3.5;3.5" keyTimes="0;1"/></circle>
+<circle r="3.5" fill="#8b5cf6"><animateMotion dur="7s" begin="-5.83s" repeatCount="indefinite" path="M-20,150 L930,150"/><animate attributeName="fill" dur="7s" begin="-5.83s" repeatCount="indefinite" values="#2dd4bf;#2dd4bf" keyTimes="0;1"/><animate attributeName="r" dur="7s" begin="-5.83s" repeatCount="indefinite" values="3.5;3.5;3.5;3.5" keyTimes="0;1"/></circle>
+<path d="M900,120 C900,10 100,10 100,120" fill="none" stroke="#2dd4bf" stroke-opacity="0.5" stroke-dasharray="3 6"/><circle r="4" fill="#f472b6"><animateMotion dur="7s" repeatCount="indefinite" path="M900,120 C900,10 100,10 100,120"/></circle>
+<text x="500" y="64" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#2dd4bf" fill-opacity="0.9">drift detected → retrain</text>
+<circle cx="100" cy="150" r="30" fill="none" stroke="#2dd4bf"><animate attributeName="r" values="30;30;52;52" keyTimes="0;0.083;0.203;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.083;0.203;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="100" cy="150" r="30" fill="#0b0716" stroke="#8b5cf6" stroke-width="2"/><g transform="translate(100,150)"><ellipse cy="-9" rx="12" ry="5" fill="none" stroke="#c4b5fd" stroke-width="2.5"/><path d="M-12,-9 V9 a12,5 0 0 0 24,0 V-9 M-12,0 a12,5 0 0 0 24,0" fill="none" stroke="#c4b5fd" stroke-width="2.5"/></g>
+<text x="100" y="212" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Data</text>
+<text x="100" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Kafka · Spark</text>
+<text x="100" y="252" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Pandas · DuckDB</text>
+<text x="100" y="270" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Parquet · SQL Server</text>
+<circle cx="300" cy="150" r="30" fill="none" stroke="#2dd4bf"><animate attributeName="r" values="30;30;52;52" keyTimes="0;0.250;0.370;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.250;0.370;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="300" cy="150" r="30" fill="#0b0716" stroke="#8b5cf6" stroke-width="2"/><g transform="translate(300,150)"><path d="M-10,-8 L10,0 L-10,8" fill="none" stroke="#c4b5fd" stroke-width="1.5"/><circle cx="-10" cy="-8" r="4" fill="#c4b5fd"/><circle cx="-10" cy="8" r="4" fill="#c4b5fd"/><circle cx="10" cy="0" r="4" fill="#2dd4bf"/></g>
+<text x="300" y="212" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Train</text>
+<text x="300" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Scikit-learn · XGBoost</text>
+<text x="300" y="252" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Isolation Forest</text>
+<text x="300" y="270" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">RAG · LangChain</text>
+<circle cx="500" cy="150" r="30" fill="none" stroke="#2dd4bf"><animate attributeName="r" values="30;30;52;52" keyTimes="0;0.417;0.537;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.417;0.537;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="500" cy="150" r="30" fill="#0b0716" stroke="#8b5cf6" stroke-width="2"/><g transform="translate(500,150)"><path d="M0,-14 L13,-7 V8 L0,15 L-13,8 V-7 Z M0,-14 V1 M-13,-7 L0,1 L13,-7" fill="none" stroke="#c4b5fd" stroke-width="2.5" stroke-linejoin="round"/></g>
+<text x="500" y="212" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Package</text>
+<text x="500" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">FastAPI · Flask</text>
+<text x="500" y="252" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Docker · Compose</text>
+<text x="500" y="270" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Streamlit</text>
+<circle cx="700" cy="150" r="30" fill="none" stroke="#2dd4bf"><animate attributeName="r" values="30;30;52;52" keyTimes="0;0.583;0.703;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.583;0.703;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="150" r="30" fill="#0b0716" stroke="#8b5cf6" stroke-width="2"/><g transform="translate(700,150)"><path d="M-12,0 L-4,9 L12,-9" fill="none" stroke="#2dd4bf" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="700" y="212" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Verify</text>
+<text x="700" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">pytest · ruff</text>
+<text x="700" y="252" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">GitHub Actions</text>
+<circle cx="900" cy="150" r="30" fill="none" stroke="#2dd4bf"><animate attributeName="r" values="30;30;52;52" keyTimes="0;0.750;0.870;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.750;0.870;1" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="150" r="30" fill="#0b0716" stroke="#8b5cf6" stroke-width="2"/><g transform="translate(900,150)"><path d="M-16,2 H-8 L-4,-11 L2,12 L6,0 H16" fill="none" stroke="#c4b5fd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="900" y="212" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">Observe</text>
+<text x="900" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Prometheus</text>
+<text x="900" y="252" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.85">Grafana</text>
+<circle cx="1100" cy="150" r="30" fill="#0b0716" stroke="#c4b5fd" stroke-width="2" stroke-dasharray="4 4"/><g transform="translate(1100,150)"><path d="M-10,0 H10 M0,-10 V10" stroke="#c4b5fd" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round"/></g>
+<text x="1100" y="212" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#a79ac9">Exploring</text>
+<text x="1100" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.55">MLflow · drift</text>
+<text x="1100" y="252" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c4b5fd" fill-opacity="0.55">Kubernetes · Bash</text>
+</svg>
