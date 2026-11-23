@@ -32,7 +32,7 @@
 
 ## En 30 secondes
 
-Étudiante en **Licence Sciences des Données** à l'Université Cadi Ayyad, après un **DUT en Ingénierie des Données**. Je m'intéresse au **data engineering**, au **machine learning**, à l'**IA** et à l'**industrialisation des pipelines de données**.
+Étudiante en **Licence Sciences des Données** à l'Université Cadi Ayyad, après un **DUT en Ingénierie des Données** (mention Bien). Je m'intéresse au **data engineering**, au **machine learning**, à l'**IA** et à l'**industrialisation des pipelines de données**.
 
 > De la donnée brute à un modèle servi par une API, avec tests, conteneurs et monitoring.
 
@@ -112,7 +112,7 @@ Chaque projet ci-dessous a un dépôt public, un schéma d'architecture et des c
 <br/><sub>Stage chez D-Business Consulting · avril – juin 2026</sub>
 
 <br/><br/>
-<code>Python</code> <code>FastAPI</code> <code>Streamlit</code> <code>DuckDB</code> <code>Parquet</code> <code>XGBoost</code> <code>LangChain</code> <code>Mistral AI</code>
+<code>Python</code> <code>FastAPI</code> <code>Streamlit</code> <code>DuckDB</code> <code>Parquet</code> <code>XGBoost</code> <code>LangChain</code> <code>Mistral AI</code> <code>Odoo</code>
 
 <br/><br/>
 <b><a href="https://github.com/Samah-boudallaa/nexadecide-decision-system">Voir le dépôt</a></b>
@@ -126,7 +126,7 @@ Chaque projet ci-dessous a un dépôt public, un schéma d'architecture et des c
 <ul>
 <li><b>443 154</b> enregistrements traités par le pipeline ETL</li>
 <li>Lecture du cache en <b>moins de 100 ms</b> (contre 15 à 30 s directement sur SQL Server)</li>
-<li><b>9</b> endpoints FastAPI et <b>10</b> pages Streamlit</li>
+<li><b>9</b> endpoints FastAPI et <b>10</b> pages Streamlit, avec cartographie GPS</li>
 <li>Prévision du chiffre d'affaires : <b>8,9 % de MAPE</b> (XGBoost, données simulées)</li>
 <li>Recommandations avec Mistral AI, LangChain et RAG</li>
 <li>Intégration du CRM Odoo via XML-RPC (instance de test)</li>
@@ -187,6 +187,19 @@ Chaque projet ci-dessous a un dépôt public, un schéma d'architecture et des c
 
 </details>
 
+<details>
+<summary><b>Autres projets</b></summary>
+
+<br/>
+
+| Projet | Contexte | Outils |
+|---|---|---|
+| **GestLotissement** | Stage à la Commune de Kelâa des Sraghna (été 2025) : digitalisation d'un processus administratif 100 % papier | `Python` `Flask` `MySQL` `UML` `Git` |
+| **Chatbot IA multilingue** | Projet académique : 3 langues avec historique de session | `Mistral AI` `Azure Inference API` `Tkinter` |
+| **Diabetes Dashboard** | Projet académique : modèle Random Forest sur 768 patients avec KPI en temps réel | `Scikit-learn` `Streamlit` `Plotly` |
+
+</details>
+
 <br/>
 
 ## Architectures
@@ -229,11 +242,14 @@ Chaque projet ci-dessous a un dépôt public, un schéma d'architecture et des c
 
 | Domaine | Technologies |
 |---|---|
-| **Langages** | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=a371f7) ![SQL](https://img.shields.io/badge/SQL-21262d?style=flat-square&logo=postgresql&logoColor=a371f7) ![R](https://img.shields.io/badge/R-21262d?style=flat-square&logo=r&logoColor=a371f7) ![C](https://img.shields.io/badge/C-21262d?style=flat-square&logo=c&logoColor=a371f7) |
-| **Data Engineering** | ![Kafka](https://img.shields.io/badge/Kafka-21262d?style=flat-square&logo=apachekafka&logoColor=a371f7) ![Spark](https://img.shields.io/badge/Spark-21262d?style=flat-square&logo=apachespark&logoColor=a371f7) ![Pandas](https://img.shields.io/badge/Pandas-21262d?style=flat-square&logo=pandas&logoColor=a371f7) ![ETL](https://img.shields.io/badge/ETL-21262d?style=flat-square) ![DuckDB](https://img.shields.io/badge/DuckDB-21262d?style=flat-square&logo=duckdb&logoColor=a371f7) ![Parquet](https://img.shields.io/badge/Parquet-21262d?style=flat-square&logo=apacheparquet&logoColor=a371f7) ![SQL Server](https://img.shields.io/badge/SQL%20Server-21262d?style=flat-square&logo=microsoftsqlserver&logoColor=a371f7) ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=a371f7) |
-| **Machine Learning et IA** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-21262d?style=flat-square&logo=scikitlearn&logoColor=a371f7) ![XGBoost](https://img.shields.io/badge/XGBoost-21262d?style=flat-square) ![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-21262d?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-21262d?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-21262d?style=flat-square&logo=langchain&logoColor=a371f7) ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-21262d?style=flat-square&logo=mistralai&logoColor=a371f7) |
-| **API et applications** | ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=a371f7) ![Flask](https://img.shields.io/badge/Flask-21262d?style=flat-square&logo=flask&logoColor=a371f7) ![REST](https://img.shields.io/badge/REST-21262d?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-21262d?style=flat-square&logo=streamlit&logoColor=a371f7) |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=a371f7) ![SQL](https://img.shields.io/badge/SQL-21262d?style=flat-square&logo=postgresql&logoColor=a371f7) ![R](https://img.shields.io/badge/R-21262d?style=flat-square&logo=r&logoColor=a371f7) ![Java](https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=a371f7) ![C++](https://img.shields.io/badge/C++-21262d?style=flat-square&logo=cplusplus&logoColor=a371f7) ![C](https://img.shields.io/badge/C-21262d?style=flat-square&logo=c&logoColor=a371f7) ![PHP](https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=a371f7) |
+| **Data Engineering** | ![Kafka](https://img.shields.io/badge/Kafka-21262d?style=flat-square&logo=apachekafka&logoColor=a371f7) ![Spark](https://img.shields.io/badge/Spark-21262d?style=flat-square&logo=apachespark&logoColor=a371f7) ![Hadoop](https://img.shields.io/badge/Hadoop-21262d?style=flat-square&logo=apachehadoop&logoColor=a371f7) ![Pandas](https://img.shields.io/badge/Pandas-21262d?style=flat-square&logo=pandas&logoColor=a371f7) ![NumPy](https://img.shields.io/badge/NumPy-21262d?style=flat-square&logo=numpy&logoColor=a371f7) ![ETL](https://img.shields.io/badge/ETL-21262d?style=flat-square) ![Parquet](https://img.shields.io/badge/Parquet-21262d?style=flat-square&logo=apacheparquet&logoColor=a371f7) |
+| **Bases de données** | ![DuckDB](https://img.shields.io/badge/DuckDB-21262d?style=flat-square&logo=duckdb&logoColor=a371f7) ![SQL Server](https://img.shields.io/badge/SQL%20Server-21262d?style=flat-square&logo=microsoftsqlserver&logoColor=a371f7) ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=a371f7) ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=a371f7) ![Oracle](https://img.shields.io/badge/Oracle-21262d?style=flat-square&logo=oracle&logoColor=a371f7) |
+| **Machine Learning et IA** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-21262d?style=flat-square&logo=scikitlearn&logoColor=a371f7) ![XGBoost](https://img.shields.io/badge/XGBoost-21262d?style=flat-square) ![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-21262d?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-21262d?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-21262d?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-21262d?style=flat-square&logo=langchain&logoColor=a371f7) ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-21262d?style=flat-square&logo=mistralai&logoColor=a371f7) |
+| **Analyse et visualisation** | ![Power BI](https://img.shields.io/badge/Power%20BI-21262d?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-21262d?style=flat-square&logo=plotly&logoColor=a371f7) ![Streamlit](https://img.shields.io/badge/Streamlit-21262d?style=flat-square&logo=streamlit&logoColor=a371f7) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-21262d?style=flat-square&logo=googleanalytics&logoColor=a371f7) |
+| **API et applications** | ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=a371f7) ![Flask](https://img.shields.io/badge/Flask-21262d?style=flat-square&logo=flask&logoColor=a371f7) ![REST](https://img.shields.io/badge/REST-21262d?style=flat-square) ![Odoo](https://img.shields.io/badge/Odoo%20(XML--RPC)-21262d?style=flat-square&logo=odoo&logoColor=a371f7) ![Tkinter](https://img.shields.io/badge/Tkinter-21262d?style=flat-square) |
 | **Qualité et exploitation** | ![Docker](https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=a371f7) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-21262d?style=flat-square&logo=docker&logoColor=a371f7) ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=a371f7) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-21262d?style=flat-square&logo=githubactions&logoColor=a371f7) ![pytest](https://img.shields.io/badge/pytest-21262d?style=flat-square&logo=pytest&logoColor=a371f7) ![ruff](https://img.shields.io/badge/ruff-21262d?style=flat-square&logo=ruff&logoColor=a371f7) ![Prometheus](https://img.shields.io/badge/Prometheus-21262d?style=flat-square&logo=prometheus&logoColor=a371f7) ![Grafana](https://img.shields.io/badge/Grafana-21262d?style=flat-square&logo=grafana&logoColor=a371f7) |
+| **Cloud et IoT** | ![AWS](https://img.shields.io/badge/AWS%20(notions)-21262d?style=flat-square) ![Azure](https://img.shields.io/badge/Azure%20(notions)-21262d?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-21262d?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-21262d?style=flat-square&logo=arduino&logoColor=a371f7) ![ESP](https://img.shields.io/badge/ESP-21262d?style=flat-square) |
 
 <sub><i>Technologies utilisées dans des contextes variés, avec des niveaux de pratique différents.</i></sub>
 
@@ -286,8 +302,8 @@ Rien n'est copié à la main : un workflow GitHub Actions interroge l'API GitHub
 | Période | Intitulé | Détails |
 |---|---|---|
 | **2026 – aujourd'hui** | **Licence en Sciences des Données** | EST Kelâa des Sraghna (Université Cadi Ayyad) |
-| **2024 – 2026** | **DUT en Ingénierie des Données** | EST Kelâa des Sraghna |
-| **2025 – 2026** | **Trois stages** | Développement d'applications (été 2025) · Data engineering et IA (avril – juin 2026) · Data et BI (juin – août 2026) |
+| **2024 – 2026** | **DUT en Ingénierie des Données** (mention Bien) | EST Kelâa des Sraghna |
+| **2025 – 2026** | **Trois stages** | Développement web (été 2025) · Data engineering et IA (avril – juin 2026) · Data et BI (juin – août 2026) |
 | **2024** | **Baccalauréat scientifique** | Mention Très Bien |
 
 <details>
@@ -299,7 +315,7 @@ timeline
     title Mon parcours
     2024 : Baccalauréat scientifique (Mention Très Bien)
          : Début du DUT en Ingénierie des Données · EST Kelâa des Sraghna
-    2025 : Stage en développement d'applications (été)
+    2025 : Stage en développement web (été)
     2026 : Projet de fin d'études : Smart Data Pipeline
          : Stage data engineering et IA · D-Business Consulting (avril – juin)
          : Stage data et BI (juin – août)
