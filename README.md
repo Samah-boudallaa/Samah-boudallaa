@@ -302,9 +302,9 @@ Nothing is copied by hand: a GitHub Actions workflow queries the GitHub API (RES
 | Period | Title | Details |
 |---|---|---|
 | **2026 – present** | **Bachelor's in Data Science** | Cadi Ayyad University |
-| **2024 – 2026** | **DUT in Data Engineering** (Honours, Mention Bien) | EST Kelâa des Sraghna |
+| **2024 – 2026** | **DUT in Data Engineering** | EST Kelâa des Sraghna |
 | **2025 – 2026** | **Three internships** | Web development (summer 2025) · Data engineering and AI (April – June 2026) · Data and BI (June – August 2026) |
-| **2024** | **Scientific Baccalaureate** | Highest honours (Mention Très Bien) |
+| **2024** | **Scientific Baccalaureate** | Highest honours |
 
 <details>
 <summary><b>View the timeline</b></summary>
